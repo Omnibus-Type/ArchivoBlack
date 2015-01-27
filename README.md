@@ -87,9 +87,9 @@ Latin Extended-A   | U+0100-U+017F
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Hector Gatti**
-**E:** omnibus.type@gmail.com
-**W:** http://www.omnibus-type.com
+**N:** **Hector Gatti**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
 **D:** Designer
 
 **N:** **Nicolas Silva**  
