@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2116" format="1">
+  <advance width="1345"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="910" y="700"/>
+      <point x="817" y="634"/>
+      <point x="817" y="501" type="curve" smooth="yes"/>
+      <point x="817" y="368"/>
+      <point x="910" y="302"/>
+      <point x="1053" y="302" type="curve" smooth="yes"/>
+      <point x="1195" y="302"/>
+      <point x="1289" y="368"/>
+      <point x="1289" y="501" type="curve" smooth="yes"/>
+      <point x="1289" y="634"/>
+      <point x="1195" y="700"/>
+      <point x="1053" y="700" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1108" y="593"/>
+      <point x="1131" y="559"/>
+      <point x="1131" y="503" type="curve" smooth="yes"/>
+      <point x="1131" y="498" type="line" smooth="yes"/>
+      <point x="1131" y="443"/>
+      <point x="1108" y="409"/>
+      <point x="1053" y="409" type="curve" smooth="yes"/>
+      <point x="997" y="409"/>
+      <point x="975" y="443"/>
+      <point x="975" y="498" type="curve" smooth="yes"/>
+      <point x="975" y="503" type="line" smooth="yes"/>
+      <point x="975" y="559"/>
+      <point x="997" y="593"/>
+      <point x="1053" y="593" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="759" y="688" type="line"/>
+      <point x="556" y="688" type="line"/>
+      <point x="556" y="349" type="line"/>
+      <point x="267" y="688" type="line"/>
+      <point x="74" y="688" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="277" y="0" type="line"/>
+      <point x="277" y="334" type="line"/>
+      <point x="566" y="0" type="line"/>
+      <point x="759" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1265" y="262" type="line"/>
+      <point x="841" y="262" type="line"/>
+      <point x="841" y="144" type="line"/>
+      <point x="1265" y="144" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

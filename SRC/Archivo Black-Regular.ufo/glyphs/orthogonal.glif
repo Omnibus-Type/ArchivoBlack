@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="orthogonal" format="1">
+  <advance width="979"/>
+  <unicode hex="221F"/>
+  <outline>
+    <contour>
+      <point x="299" y="625" type="line"/>
+      <point x="177" y="625" type="line"/>
+      <point x="177" y="0" type="line"/>
+      <point x="802" y="0" type="line"/>
+      <point x="802" y="112" type="line"/>
+      <point x="299" y="112" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="625"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="583" y="688" type="line"/>
+      <point x="454" y="688" type="line"/>
+      <point x="454" y="572" type="line"/>
+      <point x="503" y="572" type="line"/>
+      <point x="462" y="480" type="line"/>
+      <point x="529" y="480" type="line"/>
+      <point x="583" y="579" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="688" type="line"/>
+      <point x="152" y="688" type="line"/>
+      <point x="109" y="528" type="line"/>
+      <point x="27" y="528" type="line"/>
+      <point x="27" y="393" type="line"/>
+      <point x="101" y="393" type="line"/>
+      <point x="101" y="129" type="line" smooth="yes"/>
+      <point x="101" y="21"/>
+      <point x="176" y="-12"/>
+      <point x="284" y="-12" type="curve" smooth="yes"/>
+      <point x="319" y="-12"/>
+      <point x="379" y="-5"/>
+      <point x="412" y="6" type="curve"/>
+      <point x="412" y="123" type="line"/>
+      <point x="356" y="123" type="line" smooth="yes"/>
+      <point x="311" y="123"/>
+      <point x="300" y="147"/>
+      <point x="300" y="192" type="curve" smooth="yes"/>
+      <point x="300" y="393" type="line"/>
+      <point x="412" y="393" type="line"/>
+      <point x="412" y="528" type="line"/>
+      <point x="300" y="528" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

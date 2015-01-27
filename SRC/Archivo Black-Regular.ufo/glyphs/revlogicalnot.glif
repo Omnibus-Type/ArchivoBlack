@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="revlogicalnot" format="1">
+  <advance width="660"/>
+  <unicode hex="2310"/>
+  <outline>
+    <contour>
+      <point x="610" y="490" type="line"/>
+      <point x="56" y="490" type="line"/>
+      <point x="56" y="154" type="line"/>
+      <point x="210" y="154" type="line"/>
+      <point x="210" y="335" type="line"/>
+      <point x="610" y="335" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

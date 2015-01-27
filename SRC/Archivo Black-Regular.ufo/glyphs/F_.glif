@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="F" format="1">
+  <advance width="667"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="295" y="0" type="line"/>
+      <point x="295" y="247" type="line"/>
+      <point x="583" y="247" type="line"/>
+      <point x="583" y="405" type="line"/>
+      <point x="295" y="405" type="line"/>
+      <point x="295" y="523" type="line"/>
+      <point x="630" y="523" type="line"/>
+      <point x="630" y="688" type="line"/>
+      <point x="74" y="688" type="line"/>
+      <point x="74" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>716</integer>
+	<key>capHeight</key>
+	<integer>688</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)</string>
+	<key>descender</key>
+	<integer>-212</integer>
+	<key>familyName</key>
+	<string>Archivo Black</string>
+	<key>fsType</key>
+	<array>
+	</array>
+	<key>openTypeHeadCreated</key>
+	<string>2013/12/03 19:13:59</string>
+	<key>openTypeNameDescription</key>
+	<string>Archivo is a grotesque sans serif typeface family from Omnibus-Type. It was originally designed for highlights and headlines. This family is reminiscent of late nineteenth century American typefaces.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Hector Gatti</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1.This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Hector Gatti</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://omnibus-type.com/</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Archivo Black</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-12</integer>
+		<integer>0</integer>
+		<integer>528</integer>
+		<integer>541</integer>
+		<integer>688</integer>
+		<integer>700</integer>
+		<integer>725</integer>
+		<integer>737</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-212</integer>
+		<integer>-197</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>135</integer>
+		<integer>165</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>199</integer>
+		<integer>221</integer>
+		<integer>291</integer>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>4</integer>
+	<key>xHeight</key>
+	<integer>528</integer>
+</dict>
+</plist>

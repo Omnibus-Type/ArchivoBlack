@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equivalence" format="1">
+  <advance width="600"/>
+  <unicode hex="2261"/>
+  <outline>
+    <contour>
+      <point x="537" y="506" type="line"/>
+      <point x="62" y="506" type="line"/>
+      <point x="62" y="394" type="line"/>
+      <point x="537" y="394" type="line"/>
+    </contour>
+    <contour>
+      <point x="537" y="134" type="line"/>
+      <point x="62" y="134" type="line"/>
+      <point x="62" y="22" type="line"/>
+      <point x="537" y="22" type="line"/>
+    </contour>
+    <contour>
+      <point x="537" y="320" type="line"/>
+      <point x="62" y="320" type="line"/>
+      <point x="62" y="208" type="line"/>
+      <point x="537" y="208" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

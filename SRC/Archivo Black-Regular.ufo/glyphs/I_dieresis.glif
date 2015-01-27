@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="389"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="305" y="688" type="line"/>
+      <point x="84" y="688" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="885" type="line"/>
+      <point x="229" y="885" type="line"/>
+      <point x="229" y="746" type="line"/>
+      <point x="381" y="746" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="885" type="line"/>
+      <point x="9" y="885" type="line"/>
+      <point x="9" y="746" type="line"/>
+      <point x="161" y="746" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

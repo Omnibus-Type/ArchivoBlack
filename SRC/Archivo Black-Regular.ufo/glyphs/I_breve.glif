@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ibreve" format="1">
+  <advance width="389"/>
+  <unicode hex="012C"/>
+  <outline>
+    <contour>
+      <point x="305" y="688" type="line"/>
+      <point x="84" y="688" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="885" type="line"/>
+      <point x="280" y="864"/>
+      <point x="244" y="835"/>
+      <point x="194" y="835" type="curve" smooth="yes"/>
+      <point x="146" y="835"/>
+      <point x="110" y="864"/>
+      <point x="106" y="885" type="curve"/>
+      <point x="10" y="885" type="line"/>
+      <point x="10" y="818"/>
+      <point x="79" y="741"/>
+      <point x="194" y="741" type="curve" smooth="yes"/>
+      <point x="308" y="741"/>
+      <point x="379" y="818"/>
+      <point x="379" y="885" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

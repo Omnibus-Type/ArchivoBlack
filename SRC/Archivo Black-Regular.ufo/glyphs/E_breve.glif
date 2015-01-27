@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="1">
+  <advance width="722"/>
+  <unicode hex="0114"/>
+  <outline>
+    <contour>
+      <point x="475" y="885" type="line"/>
+      <point x="471" y="864"/>
+      <point x="435" y="835"/>
+      <point x="385" y="835" type="curve" smooth="yes"/>
+      <point x="336" y="835"/>
+      <point x="301" y="864"/>
+      <point x="297" y="885" type="curve"/>
+      <point x="201" y="885" type="line"/>
+      <point x="201" y="818"/>
+      <point x="270" y="741"/>
+      <point x="385" y="741" type="curve" smooth="yes"/>
+      <point x="499" y="741"/>
+      <point x="570" y="818"/>
+      <point x="570" y="885" type="curve"/>
+    </contour>
+    <contour>
+      <point x="676" y="0" type="line"/>
+      <point x="676" y="165" type="line"/>
+      <point x="295" y="165" type="line"/>
+      <point x="295" y="270" type="line"/>
+      <point x="615" y="270" type="line"/>
+      <point x="615" y="428" type="line"/>
+      <point x="295" y="428" type="line"/>
+      <point x="295" y="523" type="line"/>
+      <point x="669" y="523" type="line"/>
+      <point x="669" y="688" type="line"/>
+      <point x="74" y="688" type="line"/>
+      <point x="74" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

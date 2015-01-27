@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lacute" format="1">
+  <advance width="667"/>
+  <unicode hex="0139"/>
+  <outline>
+    <contour>
+      <point x="375" y="881" type="line"/>
+      <point x="373" y="885" type="line"/>
+      <point x="180" y="885" type="line"/>
+      <point x="88" y="752" type="line"/>
+      <point x="215" y="752" type="line"/>
+    </contour>
+    <contour>
+      <point x="648" y="0" type="line"/>
+      <point x="648" y="176" type="line"/>
+      <point x="295" y="176" type="line"/>
+      <point x="295" y="688" type="line"/>
+      <point x="74" y="688" type="line"/>
+      <point x="74" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>
