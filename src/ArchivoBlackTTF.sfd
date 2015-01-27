@@ -3,7 +3,7 @@ FontName: ArchivoBlack-Normal
 FullName: Archivo Black-Normal
 FamilyName: Archivo Black
 Weight: Regular
-Copyright: Copyright (c) 2012-2013, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Archivo'
+Copyright: Copyright (c) 2012-2013, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)
 Version: 001.004
 ItalicAngle: 0
 UnderlinePosition: -215
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1388141386
-ModificationTime: 1422391085
+ModificationTime: 1422397478
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
