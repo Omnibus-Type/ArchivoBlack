@@ -16,7 +16,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2012-2014, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Archivo Black'.
+Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -46,7 +46,13 @@ This information should be distributed along with the Archivo Black fonts and an
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**11 Jun 2014 (Nicolas Silva) Archivo Black regular, italic, bold and bolditalic v.2.005**
+**27 January 2015 (Nicolas Silva) Archivo Black v1.004**
+- Removed Reserve Font Name from the license
+- Name tables adjusted
+- fsType Installable mode
+- Set Panose values
+
+**11 Jun 2014 (Nicolas Silva) Archivo Black v.1.004**
 - Redrew numbers and other glyphs:  
 onehalf, onequarter, threequarters, florin, percent, perthousand, product, summation, copyright, estimated, literSign, registered.
 - Improved kerning in Uppercase next to lowercases

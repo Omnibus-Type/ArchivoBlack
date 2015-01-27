@@ -10,7 +10,7 @@ table OS/2 {
 	WeightClass 400;
 	WidthClass 5;
 	WidthClass 5;
-	FSType 8;
+	FSType 0;
 	XHeight 528;
 	CapHeight 688;
 } OS/2;
@@ -24,8 +24,8 @@ table head {
 	FontRevision 001.004;
 } head;
 table name{
-	nameid 0 1 "Copyright (c) 2012-2013, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Archivo'";
-	nameid 0 3 1 1033 "Copyright (c) 2012-2013, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Archivo'";
+	nameid 0 1 "Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)";
+	nameid 0 3 1 1033 "Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)";
 	nameid 8 1 "Hector Gatti";
 	nameid 8 3 1 1033 "Hector Gatti";
 	nameid 9 1 "Hector Gatti";
@@ -38,7 +38,7 @@ table name{
 	nameid 13 3 1 1033 "This Font Software is licensed under the SIL Open Font License, Version 1.1.This license is available with a FAQ at: http://scripts.sil.org/OFL";
 	nameid 14 1 "http://scripts.sil.org/OFL";
 	nameid 14 3 1 1033 "http://scripts.sil.org/OFL";
-	nameid 18 1 "Archivo Black Normal";
+	nameid 18 1 "Archivo Black Regular";
 } name;
 feature kern {
 	lookup kern1 {

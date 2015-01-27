@@ -6,27 +6,28 @@ Weight: Regular
 Copyright: Copyright (c) 2012-2013, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Archivo'
 Version: 001.004
 ItalicAngle: 0
-UnderlinePosition: -104.98
-UnderlineWidth: 49.8047
+UnderlinePosition: -104
+UnderlineWidth: 49
 Ascent: 800
 Descent: 200
+InvalidEm: 0
 sfntRevision: 0x00010106
 LayerCount: 2
-Layer: 0 1 "Back"  1
-Layer: 1 1 "Fore"  0
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
 XUID: [1021 809 -2065993493 7942728]
 FSType: 8
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1388141386
-ModificationTime: 1388263833
+ModificationTime: 1422391079
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 0 0 5 0 0 0 0 0 0 0
+Panose: 2 11 10 3 2 1 2 2 11 4
 OS2TypoAscent: 716
 OS2TypoAOffset: 0
 OS2TypoDescent: -212
@@ -50,14 +51,16 @@ OS2SupXOff: 0
 OS2SupYOff: 350
 OS2StrikeYSize: 50
 OS2StrikeYPos: 316
+OS2CapHeight: 0
+OS2XHeight: 0
 OS2Vendor: 'UKWN'
 OS2CodePages: 20000093.00000000
 OS2UnicodeRanges: 00000007.00000000.00000000.00000000
-Lookup: 1 0 0 ""  {} []
-Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0"  {"'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "" { } []
+Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "Archivo Black Normal" "Regular" "1.004;UKWN;ArchivoBlack-Normal" "Archivo Black Normal" "Version 1.004;PS 001.004;hotconv 1.0.70;makeotf.lib2.5.58329" "" "" "Hector Gatti" "Hector Gatti" "Archivo is a grotesque sans serif typeface family from Omnibus-Type. It was originally designed for highlights and headlines. This family is reminiscent of late nineteenth century American typefaces." "http://omnibus-type.com/" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Archivo Black" "Normal" 
+LangName: 1033 "" "Archivo Black Normal" "Regular" "1.004;UKWN;ArchivoBlack-Normal" "Archivo Black Normal" "Version 1.004;PS 001.004;hotconv 1.0.70;makeotf.lib2.5.58329" "" "" "Hector Gatti" "Hector Gatti" "Archivo is a grotesque sans serif typeface family from Omnibus-Type. It was originally designed for highlights and headlines. This family is reminiscent of late nineteenth century American typefaces." "http://omnibus-type.com/" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL" "" "Archivo Black" "Normal"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -83,20 +86,7 @@ Encoding: 65536 -1 0
 Width: 750
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 80 50 m 1,0,-1
@@ -128,20 +118,7 @@ Encoding: 65 65 1
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 311 251 m 1,0,-1
@@ -159,7 +136,7 @@ SplineSet
  769 0 l 1,11,-1
  535 0 l 1,4,-1
 EndSplineSet
-Kerns2: 332 -67 "'kern' Horizontal Kerning lookup 0 subtable"  329 -68 "'kern' Horizontal Kerning lookup 0 subtable"  245 -17 "'kern' Horizontal Kerning lookup 0 subtable"  234 -10 "'kern' Horizontal Kerning lookup 0 subtable"  214 17 "'kern' Horizontal Kerning lookup 0 subtable"  120 -85 "'kern' Horizontal Kerning lookup 0 subtable"  114 8 "'kern' Horizontal Kerning lookup 0 subtable"  113 -55 "'kern' Horizontal Kerning lookup 0 subtable"  102 -34 "'kern' Horizontal Kerning lookup 0 subtable"  97 -69 "'kern' Horizontal Kerning lookup 0 subtable"  86 -19 "'kern' Horizontal Kerning lookup 0 subtable"  72 -18 "'kern' Horizontal Kerning lookup 0 subtable"  36 -18 "'kern' Horizontal Kerning lookup 0 subtable"  15 -18 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 332 -67 "'kern' Horizontal Kerning lookup 0 subtable" 329 -68 "'kern' Horizontal Kerning lookup 0 subtable" 245 -17 "'kern' Horizontal Kerning lookup 0 subtable" 234 -10 "'kern' Horizontal Kerning lookup 0 subtable" 214 17 "'kern' Horizontal Kerning lookup 0 subtable" 120 -85 "'kern' Horizontal Kerning lookup 0 subtable" 114 8 "'kern' Horizontal Kerning lookup 0 subtable" 113 -55 "'kern' Horizontal Kerning lookup 0 subtable" 102 -34 "'kern' Horizontal Kerning lookup 0 subtable" 97 -69 "'kern' Horizontal Kerning lookup 0 subtable" 86 -19 "'kern' Horizontal Kerning lookup 0 subtable" 72 -18 "'kern' Horizontal Kerning lookup 0 subtable" 36 -18 "'kern' Horizontal Kerning lookup 0 subtable" 15 -18 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Aacute
@@ -167,20 +144,7 @@ Encoding: 193 193 2
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 460 251 m 1,0,-1
@@ -211,20 +175,7 @@ Encoding: 258 258 3
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 311 251 m 1,0,-1
@@ -262,20 +213,7 @@ Encoding: 194 194 4
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 311 251 m 1,0,-1
@@ -308,20 +246,7 @@ Encoding: 196 196 5
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 311 251 m 1,0,-1
@@ -349,7 +274,7 @@ SplineSet
  355 746 l 1,19,-1
  203 746 l 1,16,-1
 EndSplineSet
-Kerns2: 332 -67 "'kern' Horizontal Kerning lookup 0 subtable"  329 -68 "'kern' Horizontal Kerning lookup 0 subtable"  245 -17 "'kern' Horizontal Kerning lookup 0 subtable"  234 -10 "'kern' Horizontal Kerning lookup 0 subtable"  120 -85 "'kern' Horizontal Kerning lookup 0 subtable"  114 8 "'kern' Horizontal Kerning lookup 0 subtable"  113 -55 "'kern' Horizontal Kerning lookup 0 subtable"  102 -34 "'kern' Horizontal Kerning lookup 0 subtable"  97 -69 "'kern' Horizontal Kerning lookup 0 subtable"  86 -19 "'kern' Horizontal Kerning lookup 0 subtable"  72 -18 "'kern' Horizontal Kerning lookup 0 subtable"  36 -18 "'kern' Horizontal Kerning lookup 0 subtable"  15 -18 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 332 -67 "'kern' Horizontal Kerning lookup 0 subtable" 329 -68 "'kern' Horizontal Kerning lookup 0 subtable" 245 -17 "'kern' Horizontal Kerning lookup 0 subtable" 234 -10 "'kern' Horizontal Kerning lookup 0 subtable" 120 -85 "'kern' Horizontal Kerning lookup 0 subtable" 114 8 "'kern' Horizontal Kerning lookup 0 subtable" 113 -55 "'kern' Horizontal Kerning lookup 0 subtable" 102 -34 "'kern' Horizontal Kerning lookup 0 subtable" 97 -69 "'kern' Horizontal Kerning lookup 0 subtable" 86 -19 "'kern' Horizontal Kerning lookup 0 subtable" 72 -18 "'kern' Horizontal Kerning lookup 0 subtable" 36 -18 "'kern' Horizontal Kerning lookup 0 subtable" 15 -18 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Agrave
@@ -357,20 +282,7 @@ Encoding: 192 192 6
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 460 251 m 1,0,-1
@@ -401,20 +313,7 @@ Encoding: 256 256 7
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 311 251 m 1,0,-1
@@ -444,20 +343,7 @@ Encoding: 260 260 8
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 311 251 m 1,0,-1
@@ -492,20 +378,7 @@ Encoding: 197 197 9
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 311 251 m 1,0,-1
@@ -541,7 +414,7 @@ SplineSet
  280 890 280 890 312 922 c 128,-1,34
  344 954 344 954 389 954 c 0,24,25
 EndSplineSet
-Kerns2: 332 -67 "'kern' Horizontal Kerning lookup 0 subtable"  329 -68 "'kern' Horizontal Kerning lookup 0 subtable"  245 -17 "'kern' Horizontal Kerning lookup 0 subtable"  120 -85 "'kern' Horizontal Kerning lookup 0 subtable"  114 8 "'kern' Horizontal Kerning lookup 0 subtable"  113 -55 "'kern' Horizontal Kerning lookup 0 subtable"  102 -34 "'kern' Horizontal Kerning lookup 0 subtable"  97 -69 "'kern' Horizontal Kerning lookup 0 subtable"  86 -19 "'kern' Horizontal Kerning lookup 0 subtable"  72 -18 "'kern' Horizontal Kerning lookup 0 subtable"  36 -18 "'kern' Horizontal Kerning lookup 0 subtable"  15 -18 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 332 -67 "'kern' Horizontal Kerning lookup 0 subtable" 329 -68 "'kern' Horizontal Kerning lookup 0 subtable" 245 -17 "'kern' Horizontal Kerning lookup 0 subtable" 120 -85 "'kern' Horizontal Kerning lookup 0 subtable" 114 8 "'kern' Horizontal Kerning lookup 0 subtable" 113 -55 "'kern' Horizontal Kerning lookup 0 subtable" 102 -34 "'kern' Horizontal Kerning lookup 0 subtable" 97 -69 "'kern' Horizontal Kerning lookup 0 subtable" 86 -19 "'kern' Horizontal Kerning lookup 0 subtable" 72 -18 "'kern' Horizontal Kerning lookup 0 subtable" 36 -18 "'kern' Horizontal Kerning lookup 0 subtable" 15 -18 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Aringacute
@@ -549,20 +422,7 @@ Encoding: 506 506 10
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 311 251 m 1,0,-1
@@ -609,20 +469,7 @@ Encoding: 195 195 11
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 311 251 m 1,0,-1
@@ -662,20 +509,7 @@ Encoding: 198 198 12
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 445 251 m 1,0,-1
@@ -708,20 +542,7 @@ Encoding: 508 508 13
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 445 251 m 1,0,-1
@@ -760,20 +581,7 @@ Encoding: 66 66 14
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 295 160 m 1,0,-1
@@ -806,7 +614,7 @@ SplineSet
  74 688 l 1,33,-1
  532 688 l 2,20,21
 EndSplineSet
-Kerns2: 301 16 "'kern' Horizontal Kerning lookup 0 subtable"  295 25 "'kern' Horizontal Kerning lookup 0 subtable"  106 -26 "'kern' Horizontal Kerning lookup 0 subtable"  102 -26 "'kern' Horizontal Kerning lookup 0 subtable"  9 -17 "'kern' Horizontal Kerning lookup 0 subtable"  5 -17 "'kern' Horizontal Kerning lookup 0 subtable"  1 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 16 "'kern' Horizontal Kerning lookup 0 subtable" 295 25 "'kern' Horizontal Kerning lookup 0 subtable" 106 -26 "'kern' Horizontal Kerning lookup 0 subtable" 102 -26 "'kern' Horizontal Kerning lookup 0 subtable" 9 -17 "'kern' Horizontal Kerning lookup 0 subtable" 5 -17 "'kern' Horizontal Kerning lookup 0 subtable" 1 -17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: C
@@ -814,20 +622,7 @@ Encoding: 67 67 15
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 733 279 m 1,0,1
@@ -850,7 +645,7 @@ SplineSet
  529 219 529 219 529 279 c 1,24,-1
  733 279 l 1,0,1
 EndSplineSet
-Kerns2: 301 17 "'kern' Horizontal Kerning lookup 0 subtable"  295 25 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 17 "'kern' Horizontal Kerning lookup 0 subtable" 295 25 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Cacute
@@ -858,20 +653,7 @@ Encoding: 262 262 16
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 733 279 m 1,0,1
@@ -907,20 +689,7 @@ Encoding: 268 268 17
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 733 279 m 1,0,1
@@ -958,20 +727,7 @@ Encoding: 199 199 18
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 359 -11 m 1,0,1
@@ -1016,20 +772,7 @@ Encoding: 264 264 19
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 733 279 m 1,0,1
@@ -1067,20 +810,7 @@ Encoding: 266 266 20
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 733 279 m 1,0,1
@@ -1115,20 +845,7 @@ Encoding: 68 68 21
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 295 165 m 1,0,-1
@@ -1145,7 +862,7 @@ SplineSet
  74 688 l 1,14,-1
  372 688 l 2,8,9
 EndSplineSet
-Kerns2: 301 -17 "'kern' Horizontal Kerning lookup 0 subtable"  295 -10 "'kern' Horizontal Kerning lookup 0 subtable"  120 -34 "'kern' Horizontal Kerning lookup 0 subtable"  114 17 "'kern' Horizontal Kerning lookup 0 subtable"  113 -34 "'kern' Horizontal Kerning lookup 0 subtable"  9 -43 "'kern' Horizontal Kerning lookup 0 subtable"  5 -43 "'kern' Horizontal Kerning lookup 0 subtable"  1 -43 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -17 "'kern' Horizontal Kerning lookup 0 subtable" 295 -10 "'kern' Horizontal Kerning lookup 0 subtable" 120 -34 "'kern' Horizontal Kerning lookup 0 subtable" 114 17 "'kern' Horizontal Kerning lookup 0 subtable" 113 -34 "'kern' Horizontal Kerning lookup 0 subtable" 9 -43 "'kern' Horizontal Kerning lookup 0 subtable" 5 -43 "'kern' Horizontal Kerning lookup 0 subtable" 1 -43 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Eth
@@ -1153,20 +870,7 @@ Encoding: 208 208 22
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 295 165 m 1,0,-1
@@ -1198,20 +902,7 @@ Encoding: 270 270 23
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 295 165 m 1,0,-1
@@ -1243,20 +934,7 @@ Encoding: 272 272 24
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 295 165 m 1,0,-1
@@ -1288,20 +966,7 @@ Encoding: 69 69 25
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -1325,20 +990,7 @@ Encoding: 201 201 26
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -1368,20 +1020,7 @@ Encoding: 276 276 27
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -1418,20 +1057,7 @@ Encoding: 282 282 28
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -1463,20 +1089,7 @@ Encoding: 202 202 29
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -1508,20 +1121,7 @@ Encoding: 203 203 30
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -1555,20 +1155,7 @@ Encoding: 278 278 31
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -1597,20 +1184,7 @@ Encoding: 200 200 32
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -1640,20 +1214,7 @@ Encoding: 274 274 33
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -1682,20 +1243,7 @@ Encoding: 280 280 34
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 295 523 m 1,0,-1
@@ -1731,20 +1279,7 @@ Encoding: 70 70 35
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -1759,7 +1294,7 @@ SplineSet
  74 0 l 1,9,-1
  74 688 l 1,0,-1
 EndSplineSet
-Kerns2: 301 -153 "'kern' Horizontal Kerning lookup 0 subtable"  295 -146 "'kern' Horizontal Kerning lookup 0 subtable"  217 -34 "'kern' Horizontal Kerning lookup 0 subtable"  206 -34 "'kern' Horizontal Kerning lookup 0 subtable"  202 -34 "'kern' Horizontal Kerning lookup 0 subtable"  188 8 "'kern' Horizontal Kerning lookup 0 subtable"  153 -34 "'kern' Horizontal Kerning lookup 0 subtable"  137 -26 "'kern' Horizontal Kerning lookup 0 subtable"  133 -26 "'kern' Horizontal Kerning lookup 0 subtable"  129 -26 "'kern' Horizontal Kerning lookup 0 subtable"  9 -94 "'kern' Horizontal Kerning lookup 0 subtable"  5 -94 "'kern' Horizontal Kerning lookup 0 subtable"  1 -94 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -153 "'kern' Horizontal Kerning lookup 0 subtable" 295 -146 "'kern' Horizontal Kerning lookup 0 subtable" 217 -34 "'kern' Horizontal Kerning lookup 0 subtable" 206 -34 "'kern' Horizontal Kerning lookup 0 subtable" 202 -34 "'kern' Horizontal Kerning lookup 0 subtable" 188 8 "'kern' Horizontal Kerning lookup 0 subtable" 153 -34 "'kern' Horizontal Kerning lookup 0 subtable" 137 -26 "'kern' Horizontal Kerning lookup 0 subtable" 133 -26 "'kern' Horizontal Kerning lookup 0 subtable" 129 -26 "'kern' Horizontal Kerning lookup 0 subtable" 9 -94 "'kern' Horizontal Kerning lookup 0 subtable" 5 -94 "'kern' Horizontal Kerning lookup 0 subtable" 1 -94 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: G
@@ -1767,20 +1302,7 @@ Encoding: 71 71 36
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 634 68 m 1,0,1
@@ -1810,7 +1332,7 @@ SplineSet
  656 0 l 1,32,-1
  634 68 l 1,0,1
 EndSplineSet
-Kerns2: 301 10 "'kern' Horizontal Kerning lookup 0 subtable"  295 16 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 10 "'kern' Horizontal Kerning lookup 0 subtable" 295 16 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Gbreve
@@ -1818,20 +1340,7 @@ Encoding: 286 286 37
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 634 68 m 1,0,1
@@ -1881,20 +1390,7 @@ Encoding: 284 284 38
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 634 68 m 1,0,1
@@ -1939,20 +1435,7 @@ Encoding: 290 290 39
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 427 -267 m 1,0,-1
@@ -1997,20 +1480,7 @@ Encoding: 288 288 40
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 634 68 m 1,0,1
@@ -2052,20 +1522,7 @@ Encoding: 72 72 41
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 538 0 m 1,0,-1
@@ -2089,20 +1546,7 @@ Encoding: 294 294 42
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 538 502 m 1,0,-1
@@ -2139,20 +1583,7 @@ Encoding: 292 292 43
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 538 0 m 1,0,-1
@@ -2184,20 +1615,7 @@ Encoding: 73 73 44
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 84 0 m 1,0,-1
@@ -2213,20 +1631,7 @@ Encoding: 306 306 45
 Width: 1027
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 954 239 m 2,0,1
@@ -2257,20 +1662,7 @@ Encoding: 205 205 46
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 84 688 m 1,0,-1
@@ -2292,20 +1684,7 @@ Encoding: 300 300 47
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 84 0 m 1,0,-1
@@ -2334,20 +1713,7 @@ Encoding: 206 206 48
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 84 0 m 1,0,-1
@@ -2371,20 +1737,7 @@ Encoding: 207 207 49
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 84 0 m 1,0,-1
@@ -2410,20 +1763,7 @@ Encoding: 304 304 50
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 84 0 m 1,0,-1
@@ -2444,20 +1784,7 @@ Encoding: 204 204 51
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 84 688 m 1,0,-1
@@ -2479,20 +1806,7 @@ Encoding: 298 298 52
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 84 0 m 1,0,-1
@@ -2513,20 +1827,7 @@ Encoding: 302 302 53
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 299 0 m 1,0,1
@@ -2554,20 +1855,7 @@ Encoding: 296 296 54
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 84 0 m 1,0,-1
@@ -2598,20 +1886,7 @@ Encoding: 74 74 55
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 593 239 m 2,0,1
@@ -2629,7 +1904,7 @@ SplineSet
  593 688 l 1,15,-1
  593 239 l 2,0,1
 EndSplineSet
-Kerns2: 301 -26 "'kern' Horizontal Kerning lookup 0 subtable"  295 -18 "'kern' Horizontal Kerning lookup 0 subtable"  252 -17 "'kern' Horizontal Kerning lookup 0 subtable"  238 -26 "'kern' Horizontal Kerning lookup 0 subtable"  234 -26 "'kern' Horizontal Kerning lookup 0 subtable"  206 -26 "'kern' Horizontal Kerning lookup 0 subtable"  202 -26 "'kern' Horizontal Kerning lookup 0 subtable"  153 -26 "'kern' Horizontal Kerning lookup 0 subtable"  137 -17 "'kern' Horizontal Kerning lookup 0 subtable"  133 -17 "'kern' Horizontal Kerning lookup 0 subtable"  129 -17 "'kern' Horizontal Kerning lookup 0 subtable"  9 -26 "'kern' Horizontal Kerning lookup 0 subtable"  5 -26 "'kern' Horizontal Kerning lookup 0 subtable"  1 -26 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -26 "'kern' Horizontal Kerning lookup 0 subtable" 295 -18 "'kern' Horizontal Kerning lookup 0 subtable" 252 -17 "'kern' Horizontal Kerning lookup 0 subtable" 238 -26 "'kern' Horizontal Kerning lookup 0 subtable" 234 -26 "'kern' Horizontal Kerning lookup 0 subtable" 206 -26 "'kern' Horizontal Kerning lookup 0 subtable" 202 -26 "'kern' Horizontal Kerning lookup 0 subtable" 153 -26 "'kern' Horizontal Kerning lookup 0 subtable" 137 -17 "'kern' Horizontal Kerning lookup 0 subtable" 133 -17 "'kern' Horizontal Kerning lookup 0 subtable" 129 -17 "'kern' Horizontal Kerning lookup 0 subtable" 9 -26 "'kern' Horizontal Kerning lookup 0 subtable" 5 -26 "'kern' Horizontal Kerning lookup 0 subtable" 1 -26 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Jcircumflex
@@ -2637,20 +1912,7 @@ Encoding: 308 308 56
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 593 239 m 2,0,1
@@ -2683,20 +1945,7 @@ Encoding: 75 75 57
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 540 688 m 1,0,-1
@@ -2713,7 +1962,7 @@ SplineSet
  295 394 l 1,11,-1
  540 688 l 1,0,-1
 EndSplineSet
-Kerns2: 252 -17 "'kern' Horizontal Kerning lookup 0 subtable"  245 -17 "'kern' Horizontal Kerning lookup 0 subtable"  238 -26 "'kern' Horizontal Kerning lookup 0 subtable"  234 -26 "'kern' Horizontal Kerning lookup 0 subtable"  206 -34 "'kern' Horizontal Kerning lookup 0 subtable"  202 -34 "'kern' Horizontal Kerning lookup 0 subtable"  153 -34 "'kern' Horizontal Kerning lookup 0 subtable"  76 -34 "'kern' Horizontal Kerning lookup 0 subtable"  72 -34 "'kern' Horizontal Kerning lookup 0 subtable"  36 -34 "'kern' Horizontal Kerning lookup 0 subtable"  15 -34 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 252 -17 "'kern' Horizontal Kerning lookup 0 subtable" 245 -17 "'kern' Horizontal Kerning lookup 0 subtable" 238 -26 "'kern' Horizontal Kerning lookup 0 subtable" 234 -26 "'kern' Horizontal Kerning lookup 0 subtable" 206 -34 "'kern' Horizontal Kerning lookup 0 subtable" 202 -34 "'kern' Horizontal Kerning lookup 0 subtable" 153 -34 "'kern' Horizontal Kerning lookup 0 subtable" 76 -34 "'kern' Horizontal Kerning lookup 0 subtable" 72 -34 "'kern' Horizontal Kerning lookup 0 subtable" 36 -34 "'kern' Horizontal Kerning lookup 0 subtable" 15 -34 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Kcommaaccent
@@ -2721,20 +1970,7 @@ Encoding: 310 310 58
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 427 -267 m 1,0,-1
@@ -2766,20 +2002,7 @@ Encoding: 76 76 59
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -2790,7 +2013,7 @@ SplineSet
  74 0 l 1,5,-1
  74 688 l 1,0,-1
 EndSplineSet
-Kerns2: 332 -51 "'kern' Horizontal Kerning lookup 0 subtable"  329 -51 "'kern' Horizontal Kerning lookup 0 subtable"  252 -10 "'kern' Horizontal Kerning lookup 0 subtable"  246 -17 "'kern' Horizontal Kerning lookup 0 subtable"  120 -77 "'kern' Horizontal Kerning lookup 0 subtable"  114 -17 "'kern' Horizontal Kerning lookup 0 subtable"  113 -51 "'kern' Horizontal Kerning lookup 0 subtable"  106 -26 "'kern' Horizontal Kerning lookup 0 subtable"  102 -26 "'kern' Horizontal Kerning lookup 0 subtable"  97 -51 "'kern' Horizontal Kerning lookup 0 subtable"  76 -17 "'kern' Horizontal Kerning lookup 0 subtable"  72 -17 "'kern' Horizontal Kerning lookup 0 subtable"  36 -17 "'kern' Horizontal Kerning lookup 0 subtable"  15 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 332 -51 "'kern' Horizontal Kerning lookup 0 subtable" 329 -51 "'kern' Horizontal Kerning lookup 0 subtable" 252 -10 "'kern' Horizontal Kerning lookup 0 subtable" 246 -17 "'kern' Horizontal Kerning lookup 0 subtable" 120 -77 "'kern' Horizontal Kerning lookup 0 subtable" 114 -17 "'kern' Horizontal Kerning lookup 0 subtable" 113 -51 "'kern' Horizontal Kerning lookup 0 subtable" 106 -26 "'kern' Horizontal Kerning lookup 0 subtable" 102 -26 "'kern' Horizontal Kerning lookup 0 subtable" 97 -51 "'kern' Horizontal Kerning lookup 0 subtable" 76 -17 "'kern' Horizontal Kerning lookup 0 subtable" 72 -17 "'kern' Horizontal Kerning lookup 0 subtable" 36 -17 "'kern' Horizontal Kerning lookup 0 subtable" 15 -17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Lacute
@@ -2798,20 +2021,7 @@ Encoding: 313 313 60
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 74 688 m 1,0,-1
@@ -2835,20 +2045,7 @@ Encoding: 317 317 61
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 571 480 m 1,0,-1
@@ -2874,20 +2071,7 @@ Encoding: 315 315 62
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 344 -267 m 1,0,-1
@@ -2913,20 +2097,7 @@ Encoding: 319 319 63
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 388 343 m 1,0,-1
@@ -2949,20 +2120,7 @@ Encoding: 321 321 64
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 444 556 m 1,0,-1
@@ -2988,20 +2146,7 @@ Encoding: 77 77 65
 Width: 943
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 665 0 m 1,0,-1
@@ -3033,20 +2178,7 @@ Encoding: 78 78 66
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 566 0 m 1,0,-1
@@ -3061,7 +2193,7 @@ SplineSet
  759 0 l 1,9,-1
  566 0 l 1,0,-1
 EndSplineSet
-Kerns2: 9 -10 "'kern' Horizontal Kerning lookup 0 subtable"  5 -10 "'kern' Horizontal Kerning lookup 0 subtable"  1 -10 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 9 -10 "'kern' Horizontal Kerning lookup 0 subtable" 5 -10 "'kern' Horizontal Kerning lookup 0 subtable" 1 -10 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Nacute
@@ -3069,20 +2201,7 @@ Encoding: 323 323 67
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 277 334 m 1,0,-1
@@ -3110,20 +2229,7 @@ Encoding: 327 327 68
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 566 0 m 1,0,-1
@@ -3153,20 +2259,7 @@ Encoding: 325 325 69
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 427 -267 m 1,0,-1
@@ -3196,20 +2289,7 @@ Encoding: 330 330 70
 Width: 813
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 -29 m 2,0,1
@@ -3238,20 +2318,7 @@ Encoding: 209 209 71
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 566 0 m 1,0,-1
@@ -3287,20 +2354,7 @@ Encoding: 79 79 72
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 562 376 m 2,0,1
@@ -3324,7 +2378,7 @@ SplineSet
  45 519 45 519 141.5 609.5 c 128,-1,12
  238 700 238 700 416 700 c 128,-1,13
 EndSplineSet
-Kerns2: 301 -26 "'kern' Horizontal Kerning lookup 0 subtable"  295 -17 "'kern' Horizontal Kerning lookup 0 subtable"  120 -68 "'kern' Horizontal Kerning lookup 0 subtable"  119 -52 "'kern' Horizontal Kerning lookup 0 subtable"  114 -17 "'kern' Horizontal Kerning lookup 0 subtable"  113 -43 "'kern' Horizontal Kerning lookup 0 subtable"  97 -26 "'kern' Horizontal Kerning lookup 0 subtable"  9 -34 "'kern' Horizontal Kerning lookup 0 subtable"  5 -34 "'kern' Horizontal Kerning lookup 0 subtable"  1 -34 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -26 "'kern' Horizontal Kerning lookup 0 subtable" 295 -17 "'kern' Horizontal Kerning lookup 0 subtable" 120 -68 "'kern' Horizontal Kerning lookup 0 subtable" 119 -52 "'kern' Horizontal Kerning lookup 0 subtable" 114 -17 "'kern' Horizontal Kerning lookup 0 subtable" 113 -43 "'kern' Horizontal Kerning lookup 0 subtable" 97 -26 "'kern' Horizontal Kerning lookup 0 subtable" 9 -34 "'kern' Horizontal Kerning lookup 0 subtable" 5 -34 "'kern' Horizontal Kerning lookup 0 subtable" 1 -34 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Oacute
@@ -3332,20 +2386,7 @@ Encoding: 211 211 73
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 562 376 m 2,0,1
@@ -3382,20 +2423,7 @@ Encoding: 334 334 74
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 562 376 m 2,0,1
@@ -3439,20 +2467,7 @@ Encoding: 212 212 75
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 562 376 m 2,0,1
@@ -3491,20 +2506,7 @@ Encoding: 214 214 76
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 562 376 m 2,0,1
@@ -3538,7 +2540,7 @@ SplineSet
  382 746 l 1,28,-1
  230 746 l 1,25,-1
 EndSplineSet
-Kerns2: 120 -68 "'kern' Horizontal Kerning lookup 0 subtable"  119 -52 "'kern' Horizontal Kerning lookup 0 subtable"  114 -17 "'kern' Horizontal Kerning lookup 0 subtable"  113 -43 "'kern' Horizontal Kerning lookup 0 subtable"  97 -26 "'kern' Horizontal Kerning lookup 0 subtable"  1 -34 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 120 -68 "'kern' Horizontal Kerning lookup 0 subtable" 119 -52 "'kern' Horizontal Kerning lookup 0 subtable" 114 -17 "'kern' Horizontal Kerning lookup 0 subtable" 113 -43 "'kern' Horizontal Kerning lookup 0 subtable" 97 -26 "'kern' Horizontal Kerning lookup 0 subtable" 1 -34 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Ograve
@@ -3546,20 +2548,7 @@ Encoding: 210 210 77
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 562 376 m 2,0,1
@@ -3596,20 +2585,7 @@ Encoding: 336 336 78
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 562 376 m 2,0,1
@@ -3652,20 +2628,7 @@ Encoding: 332 332 79
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 562 376 m 2,0,1
@@ -3701,20 +2664,7 @@ Encoding: 216 216 80
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 333 175 m 1,0,1
@@ -3754,20 +2704,7 @@ Encoding: 510 510 81
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 333 175 m 1,0,1
@@ -3813,20 +2750,7 @@ Encoding: 213 213 82
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 562 376 m 2,0,1
@@ -3871,20 +2795,7 @@ Encoding: 338 338 83
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 496 376 m 2,0,1
@@ -3926,20 +2837,7 @@ Encoding: 80 80 84
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 295 383 m 1,0,-1
@@ -3963,7 +2861,7 @@ SplineSet
  74 688 l 1,21,-1
  460 688 l 2,10,11
 EndSplineSet
-Kerns2: 301 -188 "'kern' Horizontal Kerning lookup 0 subtable"  295 -180 "'kern' Horizontal Kerning lookup 0 subtable"  202 -26 "'kern' Horizontal Kerning lookup 0 subtable"  153 -26 "'kern' Horizontal Kerning lookup 0 subtable"  137 -17 "'kern' Horizontal Kerning lookup 0 subtable"  129 -17 "'kern' Horizontal Kerning lookup 0 subtable"  9 -85 "'kern' Horizontal Kerning lookup 0 subtable"  5 -85 "'kern' Horizontal Kerning lookup 0 subtable"  1 -85 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -188 "'kern' Horizontal Kerning lookup 0 subtable" 295 -180 "'kern' Horizontal Kerning lookup 0 subtable" 202 -26 "'kern' Horizontal Kerning lookup 0 subtable" 153 -26 "'kern' Horizontal Kerning lookup 0 subtable" 137 -17 "'kern' Horizontal Kerning lookup 0 subtable" 129 -17 "'kern' Horizontal Kerning lookup 0 subtable" 9 -85 "'kern' Horizontal Kerning lookup 0 subtable" 5 -85 "'kern' Horizontal Kerning lookup 0 subtable" 1 -85 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Thorn
@@ -3971,20 +2869,7 @@ Encoding: 222 222 85
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 295 283 m 1,0,-1
@@ -4017,20 +2902,7 @@ Encoding: 81 81 86
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 562 376 m 2,0,1
@@ -4057,7 +2929,7 @@ SplineSet
  512 -131 l 1,25,-1
  406 -12 l 1,12,13
 EndSplineSet
-Kerns2: 301 17 "'kern' Horizontal Kerning lookup 0 subtable"  295 33 "'kern' Horizontal Kerning lookup 0 subtable"  120 -51 "'kern' Horizontal Kerning lookup 0 subtable"  113 -43 "'kern' Horizontal Kerning lookup 0 subtable"  97 -18 "'kern' Horizontal Kerning lookup 0 subtable"  1 17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 17 "'kern' Horizontal Kerning lookup 0 subtable" 295 33 "'kern' Horizontal Kerning lookup 0 subtable" 120 -51 "'kern' Horizontal Kerning lookup 0 subtable" 113 -43 "'kern' Horizontal Kerning lookup 0 subtable" 97 -18 "'kern' Horizontal Kerning lookup 0 subtable" 1 17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: R
@@ -4065,20 +2937,7 @@ Encoding: 82 82 87
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 440 404 m 2,0,1
@@ -4105,7 +2964,7 @@ SplineSet
  74 688 l 1,23,-1
  495 688 l 2,8,9
 EndSplineSet
-Kerns2: 246 17 "'kern' Horizontal Kerning lookup 0 subtable"  238 -17 "'kern' Horizontal Kerning lookup 0 subtable"  234 -17 "'kern' Horizontal Kerning lookup 0 subtable"  206 -26 "'kern' Horizontal Kerning lookup 0 subtable"  202 -26 "'kern' Horizontal Kerning lookup 0 subtable"  153 -25 "'kern' Horizontal Kerning lookup 0 subtable"  120 -43 "'kern' Horizontal Kerning lookup 0 subtable"  113 -17 "'kern' Horizontal Kerning lookup 0 subtable"  106 -17 "'kern' Horizontal Kerning lookup 0 subtable"  102 -17 "'kern' Horizontal Kerning lookup 0 subtable"  97 -9 "'kern' Horizontal Kerning lookup 0 subtable"  86 -20 "'kern' Horizontal Kerning lookup 0 subtable"  76 -17 "'kern' Horizontal Kerning lookup 0 subtable"  72 -17 "'kern' Horizontal Kerning lookup 0 subtable"  36 -18 "'kern' Horizontal Kerning lookup 0 subtable"  15 -18 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 246 17 "'kern' Horizontal Kerning lookup 0 subtable" 238 -17 "'kern' Horizontal Kerning lookup 0 subtable" 234 -17 "'kern' Horizontal Kerning lookup 0 subtable" 206 -26 "'kern' Horizontal Kerning lookup 0 subtable" 202 -26 "'kern' Horizontal Kerning lookup 0 subtable" 153 -25 "'kern' Horizontal Kerning lookup 0 subtable" 120 -43 "'kern' Horizontal Kerning lookup 0 subtable" 113 -17 "'kern' Horizontal Kerning lookup 0 subtable" 106 -17 "'kern' Horizontal Kerning lookup 0 subtable" 102 -17 "'kern' Horizontal Kerning lookup 0 subtable" 97 -9 "'kern' Horizontal Kerning lookup 0 subtable" 86 -20 "'kern' Horizontal Kerning lookup 0 subtable" 76 -17 "'kern' Horizontal Kerning lookup 0 subtable" 72 -17 "'kern' Horizontal Kerning lookup 0 subtable" 36 -18 "'kern' Horizontal Kerning lookup 0 subtable" 15 -18 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Racute
@@ -4113,20 +2972,7 @@ Encoding: 340 340 88
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 440 404 m 2,0,1
@@ -4166,20 +3012,7 @@ Encoding: 344 344 89
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 440 404 m 2,0,1
@@ -4221,20 +3054,7 @@ Encoding: 342 342 90
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 400 -267 m 1,0,-1
@@ -4276,20 +3096,7 @@ Encoding: 83 83 91
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 252 233 m 1,0,1
@@ -4351,20 +3158,7 @@ Encoding: 346 346 92
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 252 233 m 1,0,1
@@ -4432,20 +3226,7 @@ Encoding: 352 352 93
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 252 233 m 1,0,1
@@ -4515,20 +3296,7 @@ Encoding: 350 350 94
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 252 233 m 1,0,1
@@ -4603,20 +3371,7 @@ Encoding: 348 348 95
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 252 233 m 1,0,1
@@ -4686,20 +3441,7 @@ Encoding: 536 536 96
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 372 -267 m 1,0,-1
@@ -4769,20 +3511,7 @@ Encoding: 84 84 97
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 470 512 m 1,0,-1
@@ -4795,7 +3524,7 @@ SplineSet
  695 512 l 1,7,-1
  470 512 l 1,0,-1
 EndSplineSet
-Kerns2: 321 -68 "'kern' Horizontal Kerning lookup 0 subtable"  307 -34 "'kern' Horizontal Kerning lookup 0 subtable"  301 -153 "'kern' Horizontal Kerning lookup 0 subtable"  295 -146 "'kern' Horizontal Kerning lookup 0 subtable"  294 -34 "'kern' Horizontal Kerning lookup 0 subtable"  257 -34 "'kern' Horizontal Kerning lookup 0 subtable"  252 -17 "'kern' Horizontal Kerning lookup 0 subtable"  246 -10 "'kern' Horizontal Kerning lookup 0 subtable"  234 -43 "'kern' Horizontal Kerning lookup 0 subtable"  221 -68 "'kern' Horizontal Kerning lookup 0 subtable"  217 -43 "'kern' Horizontal Kerning lookup 0 subtable"  202 -68 "'kern' Horizontal Kerning lookup 0 subtable"  194 -43 "'kern' Horizontal Kerning lookup 0 subtable"  188 19 "'kern' Horizontal Kerning lookup 0 subtable"  169 27 "'kern' Horizontal Kerning lookup 0 subtable"  153 -60 "'kern' Horizontal Kerning lookup 0 subtable"  143 -60 "'kern' Horizontal Kerning lookup 0 subtable"  137 -51 "'kern' Horizontal Kerning lookup 0 subtable"  129 -51 "'kern' Horizontal Kerning lookup 0 subtable"  86 -34 "'kern' Horizontal Kerning lookup 0 subtable"  76 -34 "'kern' Horizontal Kerning lookup 0 subtable"  72 -34 "'kern' Horizontal Kerning lookup 0 subtable"  36 -34 "'kern' Horizontal Kerning lookup 0 subtable"  15 -34 "'kern' Horizontal Kerning lookup 0 subtable"  9 -68 "'kern' Horizontal Kerning lookup 0 subtable"  5 -68 "'kern' Horizontal Kerning lookup 0 subtable"  1 -68 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 321 -68 "'kern' Horizontal Kerning lookup 0 subtable" 307 -34 "'kern' Horizontal Kerning lookup 0 subtable" 301 -153 "'kern' Horizontal Kerning lookup 0 subtable" 295 -146 "'kern' Horizontal Kerning lookup 0 subtable" 294 -34 "'kern' Horizontal Kerning lookup 0 subtable" 257 -34 "'kern' Horizontal Kerning lookup 0 subtable" 252 -17 "'kern' Horizontal Kerning lookup 0 subtable" 246 -10 "'kern' Horizontal Kerning lookup 0 subtable" 234 -43 "'kern' Horizontal Kerning lookup 0 subtable" 221 -68 "'kern' Horizontal Kerning lookup 0 subtable" 217 -43 "'kern' Horizontal Kerning lookup 0 subtable" 202 -68 "'kern' Horizontal Kerning lookup 0 subtable" 194 -43 "'kern' Horizontal Kerning lookup 0 subtable" 188 19 "'kern' Horizontal Kerning lookup 0 subtable" 169 27 "'kern' Horizontal Kerning lookup 0 subtable" 153 -60 "'kern' Horizontal Kerning lookup 0 subtable" 143 -60 "'kern' Horizontal Kerning lookup 0 subtable" 137 -51 "'kern' Horizontal Kerning lookup 0 subtable" 129 -51 "'kern' Horizontal Kerning lookup 0 subtable" 86 -34 "'kern' Horizontal Kerning lookup 0 subtable" 76 -34 "'kern' Horizontal Kerning lookup 0 subtable" 72 -34 "'kern' Horizontal Kerning lookup 0 subtable" 36 -34 "'kern' Horizontal Kerning lookup 0 subtable" 15 -34 "'kern' Horizontal Kerning lookup 0 subtable" 9 -68 "'kern' Horizontal Kerning lookup 0 subtable" 5 -68 "'kern' Horizontal Kerning lookup 0 subtable" 1 -68 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Tbar
@@ -4803,20 +3532,7 @@ Encoding: 358 358 98
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 470 269 m 1,0,-1
@@ -4844,20 +3560,7 @@ Encoding: 356 356 99
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 470 512 m 1,0,-1
@@ -4885,20 +3588,7 @@ Encoding: 354 354 100
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 0 m 1,0,-1
@@ -4933,20 +3623,7 @@ Encoding: 538 538 101
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 372 -267 m 1,0,-1
@@ -4974,20 +3651,7 @@ Encoding: 85 85 102
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5006,7 +3670,7 @@ SplineSet
  759 688 l 1,15,-1
  759 277 l 2,0,1
 EndSplineSet
-Kerns2: 301 -34 "'kern' Horizontal Kerning lookup 0 subtable"  295 -26 "'kern' Horizontal Kerning lookup 0 subtable"  9 -34 "'kern' Horizontal Kerning lookup 0 subtable"  5 -34 "'kern' Horizontal Kerning lookup 0 subtable"  1 -34 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -34 "'kern' Horizontal Kerning lookup 0 subtable" 295 -26 "'kern' Horizontal Kerning lookup 0 subtable" 9 -34 "'kern' Horizontal Kerning lookup 0 subtable" 5 -34 "'kern' Horizontal Kerning lookup 0 subtable" 1 -34 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Uacute
@@ -5014,20 +3678,7 @@ Encoding: 218 218 103
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5059,20 +3710,7 @@ Encoding: 364 364 104
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5111,20 +3749,7 @@ Encoding: 219 219 105
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5158,20 +3783,7 @@ Encoding: 220 220 106
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5200,7 +3812,7 @@ SplineSet
  382 746 l 1,23,-1
  230 746 l 1,20,-1
 EndSplineSet
-Kerns2: 1 -34 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 1 -34 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Ugrave
@@ -5208,20 +3820,7 @@ Encoding: 217 217 107
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5253,20 +3852,7 @@ Encoding: 368 368 108
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5304,20 +3890,7 @@ Encoding: 362 362 109
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5348,20 +3921,7 @@ Encoding: 370 370 110
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5399,20 +3959,7 @@ Encoding: 366 366 111
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5456,20 +4003,7 @@ Encoding: 360 360 112
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 759 277 m 2,0,1
@@ -5509,20 +4043,7 @@ Encoding: 86 86 113
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 261 0 m 1,0,-1
@@ -5535,7 +4056,7 @@ SplineSet
  517 0 l 1,7,-1
  261 0 l 1,0,-1
 EndSplineSet
-Kerns2: 321 -43 "'kern' Horizontal Kerning lookup 0 subtable"  307 -26 "'kern' Horizontal Kerning lookup 0 subtable"  301 -128 "'kern' Horizontal Kerning lookup 0 subtable"  295 -120 "'kern' Horizontal Kerning lookup 0 subtable"  294 -26 "'kern' Horizontal Kerning lookup 0 subtable"  234 -34 "'kern' Horizontal Kerning lookup 0 subtable"  217 -34 "'kern' Horizontal Kerning lookup 0 subtable"  202 -51 "'kern' Horizontal Kerning lookup 0 subtable"  172 16 "'kern' Horizontal Kerning lookup 0 subtable"  153 -51 "'kern' Horizontal Kerning lookup 0 subtable"  137 -43 "'kern' Horizontal Kerning lookup 0 subtable"  129 -43 "'kern' Horizontal Kerning lookup 0 subtable"  86 -34 "'kern' Horizontal Kerning lookup 0 subtable"  76 -34 "'kern' Horizontal Kerning lookup 0 subtable"  72 -34 "'kern' Horizontal Kerning lookup 0 subtable"  36 -34 "'kern' Horizontal Kerning lookup 0 subtable"  15 -34 "'kern' Horizontal Kerning lookup 0 subtable"  9 -57 "'kern' Horizontal Kerning lookup 0 subtable"  5 -57 "'kern' Horizontal Kerning lookup 0 subtable"  1 -57 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 321 -43 "'kern' Horizontal Kerning lookup 0 subtable" 307 -26 "'kern' Horizontal Kerning lookup 0 subtable" 301 -128 "'kern' Horizontal Kerning lookup 0 subtable" 295 -120 "'kern' Horizontal Kerning lookup 0 subtable" 294 -26 "'kern' Horizontal Kerning lookup 0 subtable" 234 -34 "'kern' Horizontal Kerning lookup 0 subtable" 217 -34 "'kern' Horizontal Kerning lookup 0 subtable" 202 -51 "'kern' Horizontal Kerning lookup 0 subtable" 172 16 "'kern' Horizontal Kerning lookup 0 subtable" 153 -51 "'kern' Horizontal Kerning lookup 0 subtable" 137 -43 "'kern' Horizontal Kerning lookup 0 subtable" 129 -43 "'kern' Horizontal Kerning lookup 0 subtable" 86 -34 "'kern' Horizontal Kerning lookup 0 subtable" 76 -34 "'kern' Horizontal Kerning lookup 0 subtable" 72 -34 "'kern' Horizontal Kerning lookup 0 subtable" 36 -34 "'kern' Horizontal Kerning lookup 0 subtable" 15 -34 "'kern' Horizontal Kerning lookup 0 subtable" 9 -57 "'kern' Horizontal Kerning lookup 0 subtable" 5 -57 "'kern' Horizontal Kerning lookup 0 subtable" 1 -57 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: W
@@ -5543,20 +4064,7 @@ Encoding: 87 87 114
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 591 0 m 1,0,-1
@@ -5577,7 +4085,7 @@ SplineSet
  834 0 l 1,15,-1
  591 0 l 1,0,-1
 EndSplineSet
-Kerns2: 321 -10 "'kern' Horizontal Kerning lookup 0 subtable"  301 -52 "'kern' Horizontal Kerning lookup 0 subtable"  295 -43 "'kern' Horizontal Kerning lookup 0 subtable"  234 -17 "'kern' Horizontal Kerning lookup 0 subtable"  202 -26 "'kern' Horizontal Kerning lookup 0 subtable"  172 33 "'kern' Horizontal Kerning lookup 0 subtable"  169 33 "'kern' Horizontal Kerning lookup 0 subtable"  153 -26 "'kern' Horizontal Kerning lookup 0 subtable"  149 -26 "'kern' Horizontal Kerning lookup 0 subtable"  137 -17 "'kern' Horizontal Kerning lookup 0 subtable"  129 -17 "'kern' Horizontal Kerning lookup 0 subtable"  76 -17 "'kern' Horizontal Kerning lookup 0 subtable"  72 -17 "'kern' Horizontal Kerning lookup 0 subtable"  36 -17 "'kern' Horizontal Kerning lookup 0 subtable"  15 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 321 -10 "'kern' Horizontal Kerning lookup 0 subtable" 301 -52 "'kern' Horizontal Kerning lookup 0 subtable" 295 -43 "'kern' Horizontal Kerning lookup 0 subtable" 234 -17 "'kern' Horizontal Kerning lookup 0 subtable" 202 -26 "'kern' Horizontal Kerning lookup 0 subtable" 172 33 "'kern' Horizontal Kerning lookup 0 subtable" 169 33 "'kern' Horizontal Kerning lookup 0 subtable" 153 -26 "'kern' Horizontal Kerning lookup 0 subtable" 149 -26 "'kern' Horizontal Kerning lookup 0 subtable" 137 -17 "'kern' Horizontal Kerning lookup 0 subtable" 129 -17 "'kern' Horizontal Kerning lookup 0 subtable" 76 -17 "'kern' Horizontal Kerning lookup 0 subtable" 72 -17 "'kern' Horizontal Kerning lookup 0 subtable" 36 -17 "'kern' Horizontal Kerning lookup 0 subtable" 15 -17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Wacute
@@ -5585,20 +4093,7 @@ Encoding: 7810 7810 115
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 502 419 m 1,0,-1
@@ -5632,20 +4127,7 @@ Encoding: 372 372 116
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 591 0 m 1,0,-1
@@ -5681,20 +4163,7 @@ Encoding: 7812 7812 117
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 591 0 m 1,0,-1
@@ -5732,20 +4201,7 @@ Encoding: 7808 7808 118
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 502 419 m 1,0,-1
@@ -5779,20 +4235,7 @@ Encoding: 88 88 119
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 778 0 m 1,0,-1
@@ -5811,7 +4254,7 @@ SplineSet
  532 363 l 1,13,-1
  778 0 l 1,0,-1
 EndSplineSet
-Kerns2: 76 -34 "'kern' Horizontal Kerning lookup 0 subtable"  72 -34 "'kern' Horizontal Kerning lookup 0 subtable"  36 -34 "'kern' Horizontal Kerning lookup 0 subtable"  15 -34 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 76 -34 "'kern' Horizontal Kerning lookup 0 subtable" 72 -34 "'kern' Horizontal Kerning lookup 0 subtable" 36 -34 "'kern' Horizontal Kerning lookup 0 subtable" 15 -34 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Y
@@ -5819,20 +4262,7 @@ Encoding: 89 89 120
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 501 0 m 1,0,-1
@@ -5847,7 +4277,7 @@ SplineSet
  501 267 l 1,9,-1
  501 0 l 1,0,-1
 EndSplineSet
-Kerns2: 321 -86 "'kern' Horizontal Kerning lookup 0 subtable"  307 -60 "'kern' Horizontal Kerning lookup 0 subtable"  301 -170 "'kern' Horizontal Kerning lookup 0 subtable"  295 -162 "'kern' Horizontal Kerning lookup 0 subtable"  294 -60 "'kern' Horizontal Kerning lookup 0 subtable"  245 -26 "'kern' Horizontal Kerning lookup 0 subtable"  234 -60 "'kern' Horizontal Kerning lookup 0 subtable"  216 -85 "'kern' Horizontal Kerning lookup 0 subtable"  214 -51 "'kern' Horizontal Kerning lookup 0 subtable"  202 -85 "'kern' Horizontal Kerning lookup 0 subtable"  153 -94 "'kern' Horizontal Kerning lookup 0 subtable"  149 -94 "'kern' Horizontal Kerning lookup 0 subtable"  137 -86 "'kern' Horizontal Kerning lookup 0 subtable"  129 -86 "'kern' Horizontal Kerning lookup 0 subtable"  91 -43 "'kern' Horizontal Kerning lookup 0 subtable"  76 -60 "'kern' Horizontal Kerning lookup 0 subtable"  72 -60 "'kern' Horizontal Kerning lookup 0 subtable"  36 -60 "'kern' Horizontal Kerning lookup 0 subtable"  15 -60 "'kern' Horizontal Kerning lookup 0 subtable"  9 -94 "'kern' Horizontal Kerning lookup 0 subtable"  5 -94 "'kern' Horizontal Kerning lookup 0 subtable"  1 -94 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 321 -86 "'kern' Horizontal Kerning lookup 0 subtable" 307 -60 "'kern' Horizontal Kerning lookup 0 subtable" 301 -170 "'kern' Horizontal Kerning lookup 0 subtable" 295 -162 "'kern' Horizontal Kerning lookup 0 subtable" 294 -60 "'kern' Horizontal Kerning lookup 0 subtable" 245 -26 "'kern' Horizontal Kerning lookup 0 subtable" 234 -60 "'kern' Horizontal Kerning lookup 0 subtable" 216 -85 "'kern' Horizontal Kerning lookup 0 subtable" 214 -51 "'kern' Horizontal Kerning lookup 0 subtable" 202 -85 "'kern' Horizontal Kerning lookup 0 subtable" 153 -94 "'kern' Horizontal Kerning lookup 0 subtable" 149 -94 "'kern' Horizontal Kerning lookup 0 subtable" 137 -86 "'kern' Horizontal Kerning lookup 0 subtable" 129 -86 "'kern' Horizontal Kerning lookup 0 subtable" 91 -43 "'kern' Horizontal Kerning lookup 0 subtable" 76 -60 "'kern' Horizontal Kerning lookup 0 subtable" 72 -60 "'kern' Horizontal Kerning lookup 0 subtable" 36 -60 "'kern' Horizontal Kerning lookup 0 subtable" 15 -60 "'kern' Horizontal Kerning lookup 0 subtable" 9 -94 "'kern' Horizontal Kerning lookup 0 subtable" 5 -94 "'kern' Horizontal Kerning lookup 0 subtable" 1 -94 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: Yacute
@@ -5855,20 +4285,7 @@ Encoding: 221 221 121
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 280 0 m 1,0,-1
@@ -5896,20 +4313,7 @@ Encoding: 374 374 122
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 501 0 m 1,0,-1
@@ -5939,20 +4343,7 @@ Encoding: 376 376 123
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 501 0 m 1,0,-1
@@ -5984,20 +4375,7 @@ Encoding: 7922 7922 124
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 280 0 m 1,0,-1
@@ -6025,20 +4403,7 @@ Encoding: 90 90 125
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 364 165 m 1,0,-1
@@ -6060,20 +4425,7 @@ Encoding: 377 377 126
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 691 165 m 1,0,-1
@@ -6101,20 +4453,7 @@ Encoding: 381 381 127
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 364 165 m 1,0,-1
@@ -6144,20 +4483,7 @@ Encoding: 379 379 128
 Width: 721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 364 165 m 1,0,-1
@@ -6184,20 +4510,7 @@ Encoding: 97 97 129
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6240,7 +4553,7 @@ SplineSet
  242 363 l 1,50,-1
  46 363 l 1,9,10
 EndSplineSet
-Kerns2: 245 -17 "'kern' Horizontal Kerning lookup 0 subtable"  229 -17 "'kern' Horizontal Kerning lookup 0 subtable"  214 10 "'kern' Horizontal Kerning lookup 0 subtable"  164 16 "'kern' Horizontal Kerning lookup 0 subtable"  142 10 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 245 -17 "'kern' Horizontal Kerning lookup 0 subtable" 229 -17 "'kern' Horizontal Kerning lookup 0 subtable" 214 10 "'kern' Horizontal Kerning lookup 0 subtable" 164 16 "'kern' Horizontal Kerning lookup 0 subtable" 142 10 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: aacute
@@ -6248,20 +4561,7 @@ Encoding: 225 225 130
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6317,20 +4617,7 @@ Encoding: 259 259 131
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6391,20 +4678,7 @@ Encoding: 226 226 132
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6462,20 +4736,7 @@ Encoding: 228 228 133
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6528,7 +4789,7 @@ SplineSet
  299 586 l 1,58,-1
  147 586 l 1,55,-1
 EndSplineSet
-Kerns2: 245 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 245 -17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: agrave
@@ -6536,20 +4797,7 @@ Encoding: 224 224 134
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6605,20 +4853,7 @@ Encoding: 257 257 135
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6673,20 +4908,7 @@ Encoding: 261 261 136
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6748,20 +4970,7 @@ Encoding: 229 229 137
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6822,7 +5031,7 @@ SplineSet
  225 730 225 730 256.5 762 c 128,-1,73
  288 794 288 794 333 794 c 0,63,64
 EndSplineSet
-Kerns2: 245 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 245 -17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: aringacute
@@ -6830,20 +5039,7 @@ Encoding: 507 507 138
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6917,20 +5113,7 @@ Encoding: 227 227 139
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -6995,20 +5178,7 @@ Encoding: 230 230 140
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -7067,20 +5237,7 @@ Encoding: 509 509 141
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 395 230 m 1,0,1
@@ -7145,20 +5302,7 @@ Encoding: 98 98 142
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 290 m 2,0,1
@@ -7183,7 +5327,7 @@ SplineSet
  260 725 l 1,26,-1
  260 479 l 1,12,13
 EndSplineSet
-Kerns2: 245 -26 "'kern' Horizontal Kerning lookup 0 subtable"  142 10 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 245 -26 "'kern' Horizontal Kerning lookup 0 subtable" 142 10 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: c
@@ -7191,20 +5335,7 @@ Encoding: 99 99 143
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 624 215 m 1,0,1
@@ -7228,7 +5359,7 @@ SplineSet
  439 123 439 123 439 215 c 1,23,-1
  624 215 l 1,0,1
 EndSplineSet
-Kerns2: 252 -17 "'kern' Horizontal Kerning lookup 0 subtable"  188 -26 "'kern' Horizontal Kerning lookup 0 subtable"  185 -17 "'kern' Horizontal Kerning lookup 0 subtable"  169 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 252 -17 "'kern' Horizontal Kerning lookup 0 subtable" 188 -26 "'kern' Horizontal Kerning lookup 0 subtable" 185 -17 "'kern' Horizontal Kerning lookup 0 subtable" 169 -17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: cacute
@@ -7236,20 +5367,7 @@ Encoding: 263 263 144
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 624 215 m 1,0,1
@@ -7286,20 +5404,7 @@ Encoding: 269 269 145
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 624 215 m 1,0,1
@@ -7338,20 +5443,7 @@ Encoding: 231 231 146
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 304 -11 m 1,0,1
@@ -7396,20 +5488,7 @@ Encoding: 265 265 147
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 624 215 m 1,0,1
@@ -7448,20 +5527,7 @@ Encoding: 267 267 148
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 624 215 m 1,0,1
@@ -7497,20 +5563,7 @@ Encoding: 100 100 149
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 409 280 m 2,0,1
@@ -7535,7 +5588,7 @@ SplineSet
  606 0 l 1,26,-1
  444 0 l 1,12,-1
 EndSplineSet
-Kerns2: 246 10 "'kern' Horizontal Kerning lookup 0 subtable"  149 10 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 246 10 "'kern' Horizontal Kerning lookup 0 subtable" 149 10 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: eth
@@ -7543,20 +5596,7 @@ Encoding: 240 240 150
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 292 m 2,0,1
@@ -7594,20 +5634,7 @@ Encoding: 271 271 151
 Width: 843
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 409 280 m 2,0,1
@@ -7647,20 +5674,7 @@ Encoding: 273 273 152
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 409 280 m 2,0,1
@@ -7700,20 +5714,7 @@ Encoding: 101 101 153
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 324 m 1,0,1
@@ -7738,7 +5739,7 @@ SplineSet
  438 157 438 157 438 192 c 1,26,-1
  631 192 l 1,6,7
 EndSplineSet
-Kerns2: 251 -26 "'kern' Horizontal Kerning lookup 0 subtable"  245 -26 "'kern' Horizontal Kerning lookup 0 subtable"  164 25 "'kern' Horizontal Kerning lookup 0 subtable"  142 -10 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 251 -26 "'kern' Horizontal Kerning lookup 0 subtable" 245 -26 "'kern' Horizontal Kerning lookup 0 subtable" 164 25 "'kern' Horizontal Kerning lookup 0 subtable" 142 -10 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: eacute
@@ -7746,20 +5747,7 @@ Encoding: 233 233 154
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 324 m 1,0,1
@@ -7797,20 +5785,7 @@ Encoding: 277 277 155
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 324 m 1,0,1
@@ -7853,20 +5828,7 @@ Encoding: 283 283 156
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 324 m 1,0,1
@@ -7906,20 +5868,7 @@ Encoding: 234 234 157
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 324 m 1,0,1
@@ -7959,20 +5908,7 @@ Encoding: 235 235 158
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 324 m 1,0,1
@@ -8014,20 +5950,7 @@ Encoding: 279 279 159
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 324 m 1,0,1
@@ -8064,20 +5987,7 @@ Encoding: 232 232 160
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 324 m 1,0,1
@@ -8115,20 +6025,7 @@ Encoding: 275 275 161
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 324 m 1,0,1
@@ -8165,20 +6062,7 @@ Encoding: 281 281 162
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 324 m 1,0,1
@@ -8222,20 +6106,7 @@ Encoding: 102 102 163
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 82 550 m 2,0,1
@@ -8261,7 +6132,7 @@ SplineSet
  82 528 l 1,23,-1
  82 550 l 2,0,1
 EndSplineSet
-Kerns2: 334 58 "'kern' Horizontal Kerning lookup 0 subtable"  332 83 "'kern' Horizontal Kerning lookup 0 subtable"  329 83 "'kern' Horizontal Kerning lookup 0 subtable"  303 83 "'kern' Horizontal Kerning lookup 0 subtable"  301 -60 "'kern' Horizontal Kerning lookup 0 subtable"  297 83 "'kern' Horizontal Kerning lookup 0 subtable"  295 -52 "'kern' Horizontal Kerning lookup 0 subtable"  202 -17 "'kern' Horizontal Kerning lookup 0 subtable"  185 10 "'kern' Horizontal Kerning lookup 0 subtable"  163 25 "'kern' Horizontal Kerning lookup 0 subtable"  153 -17 "'kern' Horizontal Kerning lookup 0 subtable"  129 -10 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 334 58 "'kern' Horizontal Kerning lookup 0 subtable" 332 83 "'kern' Horizontal Kerning lookup 0 subtable" 329 83 "'kern' Horizontal Kerning lookup 0 subtable" 303 83 "'kern' Horizontal Kerning lookup 0 subtable" 301 -60 "'kern' Horizontal Kerning lookup 0 subtable" 297 83 "'kern' Horizontal Kerning lookup 0 subtable" 295 -52 "'kern' Horizontal Kerning lookup 0 subtable" 202 -17 "'kern' Horizontal Kerning lookup 0 subtable" 185 10 "'kern' Horizontal Kerning lookup 0 subtable" 163 25 "'kern' Horizontal Kerning lookup 0 subtable" 153 -17 "'kern' Horizontal Kerning lookup 0 subtable" 129 -10 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: g
@@ -8269,20 +6140,7 @@ Encoding: 103 103 164
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 246 0 m 2,0,1
@@ -8345,7 +6203,7 @@ SplineSet
  490 625 490 625 490 627 c 1,74,-1
  654 627 l 1,22,23
 EndSplineSet
-Kerns2: 252 17 "'kern' Horizontal Kerning lookup 0 subtable"  217 18 "'kern' Horizontal Kerning lookup 0 subtable"  188 10 "'kern' Horizontal Kerning lookup 0 subtable"  164 10 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 252 17 "'kern' Horizontal Kerning lookup 0 subtable" 217 18 "'kern' Horizontal Kerning lookup 0 subtable" 188 10 "'kern' Horizontal Kerning lookup 0 subtable" 164 10 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: gbreve
@@ -8353,20 +6211,7 @@ Encoding: 287 287 165
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 246 0 m 2,0,1
@@ -8449,20 +6294,7 @@ Encoding: 285 285 166
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 246 0 m 2,0,1
@@ -8541,20 +6373,7 @@ Encoding: 291 291 167
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 246 0 m 2,0,1
@@ -8632,20 +6451,7 @@ Encoding: 289 289 168
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 246 0 m 2,0,1
@@ -8720,20 +6526,7 @@ Encoding: 104 104 169
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 259 473 m 1,0,1
@@ -8761,20 +6554,7 @@ Encoding: 295 295 170
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 329 668 m 1,0,-1
@@ -8810,20 +6590,7 @@ Encoding: 293 293 171
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 259 473 m 1,0,1
@@ -8859,20 +6626,7 @@ Encoding: 105 105 172
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 0 m 1,0,-1
@@ -8893,20 +6647,7 @@ Encoding: 305 305 173
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 0 m 1,0,-1
@@ -8922,20 +6663,7 @@ Encoding: 237 237 174
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 528 m 1,0,-1
@@ -8957,20 +6685,7 @@ Encoding: 301 301 175
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 0 m 1,0,-1
@@ -8997,20 +6712,7 @@ Encoding: 238 238 176
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 0 m 1,0,-1
@@ -9034,20 +6736,7 @@ Encoding: 239 239 177
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 0 m 1,0,-1
@@ -9073,20 +6762,7 @@ Encoding: 236 236 178
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 528 m 1,0,-1
@@ -9108,20 +6784,7 @@ Encoding: 307 307 179
 Width: 667
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 601 -29 m 2,0,1
@@ -9158,20 +6821,7 @@ Encoding: 299 299 180
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 0 m 1,0,-1
@@ -9192,20 +6842,7 @@ Encoding: 303 303 181
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 243 0 m 1,0,1
@@ -9236,20 +6873,7 @@ Encoding: 297 297 182
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 0 m 1,0,-1
@@ -9280,20 +6904,7 @@ Encoding: 106 106 183
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 266 -29 m 2,0,1
@@ -9320,20 +6931,7 @@ Encoding: 309 309 184
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 266 -29 m 2,0,1
@@ -9363,20 +6961,7 @@ Encoding: 107 107 185
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 428 528 m 1,0,-1
@@ -9393,7 +6978,7 @@ SplineSet
  259 326 l 1,11,-1
  428 528 l 1,0,-1
 EndSplineSet
-Kerns2: 252 17 "'kern' Horizontal Kerning lookup 0 subtable"  206 -34 "'kern' Horizontal Kerning lookup 0 subtable"  202 -34 "'kern' Horizontal Kerning lookup 0 subtable"  153 -34 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 252 17 "'kern' Horizontal Kerning lookup 0 subtable" 206 -34 "'kern' Horizontal Kerning lookup 0 subtable" 202 -34 "'kern' Horizontal Kerning lookup 0 subtable" 153 -34 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: kcommaaccent
@@ -9401,20 +6986,7 @@ Encoding: 311 311 186
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 344 -267 m 1,0,-1
@@ -9446,20 +7018,7 @@ Encoding: 312 312 187
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 665 0 m 1,0,-1
@@ -9483,20 +7042,7 @@ Encoding: 108 108 188
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 0 m 1,0,-1
@@ -9505,7 +7051,7 @@ SplineSet
  266 0 l 1,3,-1
  67 0 l 1,0,-1
 EndSplineSet
-Kerns2: 252 17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 252 17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: lacute
@@ -9513,20 +7059,7 @@ Encoding: 314 314 189
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 725 m 1,0,-1
@@ -9548,20 +7081,7 @@ Encoding: 318 318 190
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 398 331 m 1,0,-1
@@ -9585,20 +7105,7 @@ Encoding: 316 316 191
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 177 -267 m 1,0,-1
@@ -9622,20 +7129,7 @@ Encoding: 320 320 192
 Width: 533
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 359 389 m 1,0,-1
@@ -9656,20 +7150,7 @@ Encoding: 322 322 193
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 362 509 m 1,0,-1
@@ -9693,20 +7174,7 @@ Encoding: 109 109 194
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 236 449 m 1,0,1
@@ -9744,20 +7212,7 @@ Encoding: 110 110 195
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 236 448 m 1,0,1
@@ -9778,7 +7233,7 @@ SplineSet
  223 528 l 1,19,-1
  236 448 l 1,0,1
 EndSplineSet
-Kerns2: 332 -17 "'kern' Horizontal Kerning lookup 0 subtable"  245 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 332 -17 "'kern' Horizontal Kerning lookup 0 subtable" 245 -27 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: nacute
@@ -9786,20 +7241,7 @@ Encoding: 324 324 196
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 236 448 m 1,0,1
@@ -9833,20 +7275,7 @@ Encoding: 329 329 197
 Width: 857
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 427 448 m 1,0,1
@@ -9882,20 +7311,7 @@ Encoding: 328 328 198
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 236 448 m 1,0,1
@@ -9931,20 +7347,7 @@ Encoding: 326 326 199
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 344 -267 m 1,0,-1
@@ -9980,20 +7383,7 @@ Encoding: 331 331 200
 Width: 680
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 243 448 m 1,0,1
@@ -10027,20 +7417,7 @@ Encoding: 241 241 201
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 236 448 m 1,0,1
@@ -10083,20 +7460,7 @@ Encoding: 111 111 202
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 292 m 2,0,1
@@ -10116,7 +7480,7 @@ SplineSet
  36 400 36 400 115 470 c 128,-1,10
  194 540 194 540 333 540 c 128,-1,11
 EndSplineSet
-Kerns2: 301 -17 "'kern' Horizontal Kerning lookup 0 subtable"  295 -10 "'kern' Horizontal Kerning lookup 0 subtable"  257 17 "'kern' Horizontal Kerning lookup 0 subtable"  252 -17 "'kern' Horizontal Kerning lookup 0 subtable"  251 -35 "'kern' Horizontal Kerning lookup 0 subtable"  246 -18 "'kern' Horizontal Kerning lookup 0 subtable"  245 -34 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -17 "'kern' Horizontal Kerning lookup 0 subtable" 295 -10 "'kern' Horizontal Kerning lookup 0 subtable" 257 17 "'kern' Horizontal Kerning lookup 0 subtable" 252 -17 "'kern' Horizontal Kerning lookup 0 subtable" 251 -35 "'kern' Horizontal Kerning lookup 0 subtable" 246 -18 "'kern' Horizontal Kerning lookup 0 subtable" 245 -34 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: oacute
@@ -10124,20 +7488,7 @@ Encoding: 243 243 203
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 292 m 2,0,1
@@ -10170,20 +7521,7 @@ Encoding: 335 335 204
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 292 m 2,0,1
@@ -10221,20 +7559,7 @@ Encoding: 244 244 205
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 292 m 2,0,1
@@ -10269,20 +7594,7 @@ Encoding: 246 246 206
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 292 m 2,0,1
@@ -10312,7 +7624,7 @@ SplineSet
  299 586 l 1,25,-1
  147 586 l 1,22,-1
 EndSplineSet
-Kerns2: 257 17 "'kern' Horizontal Kerning lookup 0 subtable"  252 -17 "'kern' Horizontal Kerning lookup 0 subtable"  251 -35 "'kern' Horizontal Kerning lookup 0 subtable"  246 -18 "'kern' Horizontal Kerning lookup 0 subtable"  245 -34 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 257 17 "'kern' Horizontal Kerning lookup 0 subtable" 252 -17 "'kern' Horizontal Kerning lookup 0 subtable" 251 -35 "'kern' Horizontal Kerning lookup 0 subtable" 246 -18 "'kern' Horizontal Kerning lookup 0 subtable" 245 -34 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: ograve
@@ -10320,20 +7632,7 @@ Encoding: 242 242 207
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 292 m 2,0,1
@@ -10366,20 +7665,7 @@ Encoding: 337 337 208
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 292 m 2,0,1
@@ -10418,20 +7704,7 @@ Encoding: 333 333 209
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 292 m 2,0,1
@@ -10463,20 +7736,7 @@ Encoding: 248 248 210
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 281 134 m 1,0,1
@@ -10514,20 +7774,7 @@ Encoding: 511 511 211
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 281 134 m 1,0,1
@@ -10571,20 +7818,7 @@ Encoding: 245 245 212
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 292 m 2,0,1
@@ -10626,20 +7860,7 @@ Encoding: 339 339 213
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 405 292 m 2,0,1
@@ -10681,20 +7902,7 @@ Encoding: 112 112 214
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 291 m 2,0,1
@@ -10719,7 +7927,7 @@ SplineSet
  223 528 l 1,26,-1
  240 453 l 1,12,13
 EndSplineSet
-Kerns2: 301 -17 "'kern' Horizontal Kerning lookup 0 subtable"  295 -10 "'kern' Horizontal Kerning lookup 0 subtable"  252 -17 "'kern' Horizontal Kerning lookup 0 subtable"  246 -26 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -17 "'kern' Horizontal Kerning lookup 0 subtable" 295 -10 "'kern' Horizontal Kerning lookup 0 subtable" 252 -17 "'kern' Horizontal Kerning lookup 0 subtable" 246 -26 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: thorn
@@ -10727,20 +7935,7 @@ Encoding: 254 254 215
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 432 291 m 2,0,1
@@ -10772,20 +7967,7 @@ Encoding: 113 113 216
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 409 281 m 2,0,1
@@ -10817,20 +7999,7 @@ Encoding: 114 114 217
 Width: 443
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 236 448 m 1,0,1
@@ -10849,7 +8018,7 @@ SplineSet
  223 528 l 1,16,-1
  236 448 l 1,0,1
 EndSplineSet
-Kerns2: 307 42 "'kern' Horizontal Kerning lookup 0 subtable"  301 -77 "'kern' Horizontal Kerning lookup 0 subtable"  295 -68 "'kern' Horizontal Kerning lookup 0 subtable"  294 42 "'kern' Horizontal Kerning lookup 0 subtable"  252 58 "'kern' Horizontal Kerning lookup 0 subtable"  245 58 "'kern' Horizontal Kerning lookup 0 subtable"  238 33 "'kern' Horizontal Kerning lookup 0 subtable"  234 33 "'kern' Horizontal Kerning lookup 0 subtable"  229 50 "'kern' Horizontal Kerning lookup 0 subtable"  221 25 "'kern' Horizontal Kerning lookup 0 subtable"  217 42 "'kern' Horizontal Kerning lookup 0 subtable"  216 25 "'kern' Horizontal Kerning lookup 0 subtable"  214 42 "'kern' Horizontal Kerning lookup 0 subtable"  206 16 "'kern' Horizontal Kerning lookup 0 subtable"  202 16 "'kern' Horizontal Kerning lookup 0 subtable"  195 50 "'kern' Horizontal Kerning lookup 0 subtable"  194 50 "'kern' Horizontal Kerning lookup 0 subtable"  188 33 "'kern' Horizontal Kerning lookup 0 subtable"  185 33 "'kern' Horizontal Kerning lookup 0 subtable"  183 42 "'kern' Horizontal Kerning lookup 0 subtable"  164 25 "'kern' Horizontal Kerning lookup 0 subtable"  153 16 "'kern' Horizontal Kerning lookup 0 subtable"  149 25 "'kern' Horizontal Kerning lookup 0 subtable"  143 17 "'kern' Horizontal Kerning lookup 0 subtable"  137 17 "'kern' Horizontal Kerning lookup 0 subtable"  133 17 "'kern' Horizontal Kerning lookup 0 subtable"  129 17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 307 42 "'kern' Horizontal Kerning lookup 0 subtable" 301 -77 "'kern' Horizontal Kerning lookup 0 subtable" 295 -68 "'kern' Horizontal Kerning lookup 0 subtable" 294 42 "'kern' Horizontal Kerning lookup 0 subtable" 252 58 "'kern' Horizontal Kerning lookup 0 subtable" 245 58 "'kern' Horizontal Kerning lookup 0 subtable" 238 33 "'kern' Horizontal Kerning lookup 0 subtable" 234 33 "'kern' Horizontal Kerning lookup 0 subtable" 229 50 "'kern' Horizontal Kerning lookup 0 subtable" 221 25 "'kern' Horizontal Kerning lookup 0 subtable" 217 42 "'kern' Horizontal Kerning lookup 0 subtable" 216 25 "'kern' Horizontal Kerning lookup 0 subtable" 214 42 "'kern' Horizontal Kerning lookup 0 subtable" 206 16 "'kern' Horizontal Kerning lookup 0 subtable" 202 16 "'kern' Horizontal Kerning lookup 0 subtable" 195 50 "'kern' Horizontal Kerning lookup 0 subtable" 194 50 "'kern' Horizontal Kerning lookup 0 subtable" 188 33 "'kern' Horizontal Kerning lookup 0 subtable" 185 33 "'kern' Horizontal Kerning lookup 0 subtable" 183 42 "'kern' Horizontal Kerning lookup 0 subtable" 164 25 "'kern' Horizontal Kerning lookup 0 subtable" 153 16 "'kern' Horizontal Kerning lookup 0 subtable" 149 25 "'kern' Horizontal Kerning lookup 0 subtable" 143 17 "'kern' Horizontal Kerning lookup 0 subtable" 137 17 "'kern' Horizontal Kerning lookup 0 subtable" 133 17 "'kern' Horizontal Kerning lookup 0 subtable" 129 17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: racute
@@ -10857,20 +8026,7 @@ Encoding: 341 341 218
 Width: 443
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 236 448 m 1,0,1
@@ -10902,20 +8058,7 @@ Encoding: 345 345 219
 Width: 443
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 236 448 m 1,0,1
@@ -10949,20 +8092,7 @@ Encoding: 343 343 220
 Width: 443
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 233 -267 m 1,0,-1
@@ -10996,20 +8126,7 @@ Encoding: 115 115 221
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 217 168 m 1,0,1
@@ -11057,7 +8174,7 @@ SplineSet
  217 172 l 1,53,-1
  217 168 l 1,0,1
 EndSplineSet
-Kerns2: 246 -26 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 246 -26 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: sacute
@@ -11065,20 +8182,7 @@ Encoding: 347 347 222
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 217 168 m 1,0,1
@@ -11139,20 +8243,7 @@ Encoding: 353 353 223
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 217 168 m 1,0,1
@@ -11215,20 +8306,7 @@ Encoding: 351 351 224
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 217 168 m 1,0,1
@@ -11297,20 +8375,7 @@ Encoding: 349 349 225
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 217 168 m 1,0,1
@@ -11373,20 +8438,7 @@ Encoding: 537 537 226
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 317 -267 m 1,0,-1
@@ -11449,20 +8501,7 @@ Encoding: 223 223 227
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 517 m 2,0,1
@@ -11510,20 +8549,7 @@ Encoding: 383 383 228
 Width: 389
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 82 550 m 2,0,1
@@ -11552,20 +8578,7 @@ Encoding: 116 116 229
 Width: 443
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 412 528 m 1,0,-1
@@ -11598,20 +8611,7 @@ Encoding: 359 359 230
 Width: 443
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 412 528 m 1,0,-1
@@ -11652,20 +8652,7 @@ Encoding: 357 357 231
 Width: 625
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 529 480 m 1,0,-1
@@ -11706,20 +8693,7 @@ Encoding: 355 355 232
 Width: 443
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 300 393 m 1,0,-1
@@ -11765,20 +8739,7 @@ Encoding: 539 539 233
 Width: 443
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 276 -267 m 1,0,-1
@@ -11819,20 +8780,7 @@ Encoding: 117 117 234
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 443 0 m 1,0,-1
@@ -11860,20 +8808,7 @@ Encoding: 250 250 235
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 80 m 1,0,1
@@ -11907,20 +8842,7 @@ Encoding: 365 365 236
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 443 0 m 1,0,-1
@@ -11959,20 +8881,7 @@ Encoding: 251 251 237
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 443 0 m 1,0,-1
@@ -12008,20 +8917,7 @@ Encoding: 252 252 238
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 443 0 m 1,0,-1
@@ -12059,20 +8955,7 @@ Encoding: 249 249 239
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 80 m 1,0,1
@@ -12106,20 +8989,7 @@ Encoding: 369 369 240
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 443 0 m 1,0,-1
@@ -12159,20 +9029,7 @@ Encoding: 363 363 241
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 443 0 m 1,0,-1
@@ -12205,20 +9062,7 @@ Encoding: 371 371 242
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 514 0 m 1,0,1
@@ -12261,20 +9105,7 @@ Encoding: 367 367 243
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 443 0 m 1,0,-1
@@ -12320,20 +9151,7 @@ Encoding: 361 361 244
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 443 0 m 1,0,-1
@@ -12376,20 +9194,7 @@ Encoding: 118 118 245
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 200 0 m 1,0,-1
@@ -12402,7 +9207,7 @@ SplineSet
  409 0 l 1,7,-1
  200 0 l 1,0,-1
 EndSplineSet
-Kerns2: 301 -93 "'kern' Horizontal Kerning lookup 0 subtable"  295 -85 "'kern' Horizontal Kerning lookup 0 subtable"  216 -25 "'kern' Horizontal Kerning lookup 0 subtable"  206 -26 "'kern' Horizontal Kerning lookup 0 subtable"  202 -26 "'kern' Horizontal Kerning lookup 0 subtable"  153 -26 "'kern' Horizontal Kerning lookup 0 subtable"  149 -17 "'kern' Horizontal Kerning lookup 0 subtable"  143 -26 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -93 "'kern' Horizontal Kerning lookup 0 subtable" 295 -85 "'kern' Horizontal Kerning lookup 0 subtable" 216 -25 "'kern' Horizontal Kerning lookup 0 subtable" 206 -26 "'kern' Horizontal Kerning lookup 0 subtable" 202 -26 "'kern' Horizontal Kerning lookup 0 subtable" 153 -26 "'kern' Horizontal Kerning lookup 0 subtable" 149 -17 "'kern' Horizontal Kerning lookup 0 subtable" 143 -26 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: w
@@ -12410,20 +9215,7 @@ Encoding: 119 119 246
 Width: 943
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 556 0 m 1,0,-1
@@ -12444,7 +9236,7 @@ SplineSet
  750 0 l 1,15,-1
  556 0 l 1,0,-1
 EndSplineSet
-Kerns2: 301 -85 "'kern' Horizontal Kerning lookup 0 subtable"  295 -77 "'kern' Horizontal Kerning lookup 0 subtable"  216 -17 "'kern' Horizontal Kerning lookup 0 subtable"  206 -17 "'kern' Horizontal Kerning lookup 0 subtable"  202 -17 "'kern' Horizontal Kerning lookup 0 subtable"  169 17 "'kern' Horizontal Kerning lookup 0 subtable"  153 -11 "'kern' Horizontal Kerning lookup 0 subtable"  149 -11 "'kern' Horizontal Kerning lookup 0 subtable"  143 -10 "'kern' Horizontal Kerning lookup 0 subtable"  137 -11 "'kern' Horizontal Kerning lookup 0 subtable"  133 -11 "'kern' Horizontal Kerning lookup 0 subtable"  129 -11 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -85 "'kern' Horizontal Kerning lookup 0 subtable" 295 -77 "'kern' Horizontal Kerning lookup 0 subtable" 216 -17 "'kern' Horizontal Kerning lookup 0 subtable" 206 -17 "'kern' Horizontal Kerning lookup 0 subtable" 202 -17 "'kern' Horizontal Kerning lookup 0 subtable" 169 17 "'kern' Horizontal Kerning lookup 0 subtable" 153 -11 "'kern' Horizontal Kerning lookup 0 subtable" 149 -11 "'kern' Horizontal Kerning lookup 0 subtable" 143 -10 "'kern' Horizontal Kerning lookup 0 subtable" 137 -11 "'kern' Horizontal Kerning lookup 0 subtable" 133 -11 "'kern' Horizontal Kerning lookup 0 subtable" 129 -11 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: wacute
@@ -12452,20 +9244,7 @@ Encoding: 7811 7811 247
 Width: 943
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 474 294 m 1,0,-1
@@ -12499,20 +9278,7 @@ Encoding: 373 373 248
 Width: 943
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 556 0 m 1,0,-1
@@ -12548,20 +9314,7 @@ Encoding: 7813 7813 249
 Width: 943
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 556 0 m 1,0,-1
@@ -12599,20 +9352,7 @@ Encoding: 7809 7809 250
 Width: 943
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 474 294 m 1,0,-1
@@ -12646,20 +9386,7 @@ Encoding: 120 120 251
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 662 0 m 1,0,-1
@@ -12678,7 +9405,7 @@ SplineSet
  464 275 l 1,13,-1
  662 0 l 1,0,-1
 EndSplineSet
-Kerns2: 206 -17 "'kern' Horizontal Kerning lookup 0 subtable"  202 -17 "'kern' Horizontal Kerning lookup 0 subtable"  153 -17 "'kern' Horizontal Kerning lookup 0 subtable"  149 -17 "'kern' Horizontal Kerning lookup 0 subtable"  143 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 206 -17 "'kern' Horizontal Kerning lookup 0 subtable" 202 -17 "'kern' Horizontal Kerning lookup 0 subtable" 153 -17 "'kern' Horizontal Kerning lookup 0 subtable" 149 -17 "'kern' Horizontal Kerning lookup 0 subtable" 143 -17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: y
@@ -12686,20 +9413,7 @@ Encoding: 121 121 252
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 423 16 m 2,0,1
@@ -12720,7 +9434,7 @@ SplineSet
  611 528 l 1,18,-1
  423 16 l 2,0,1
 EndSplineSet
-Kerns2: 301 -94 "'kern' Horizontal Kerning lookup 0 subtable"  295 -85 "'kern' Horizontal Kerning lookup 0 subtable"  206 -17 "'kern' Horizontal Kerning lookup 0 subtable"  202 -17 "'kern' Horizontal Kerning lookup 0 subtable"  153 -17 "'kern' Horizontal Kerning lookup 0 subtable"  149 -17 "'kern' Horizontal Kerning lookup 0 subtable"  143 -17 "'kern' Horizontal Kerning lookup 0 subtable"  137 -17 "'kern' Horizontal Kerning lookup 0 subtable"  133 -17 "'kern' Horizontal Kerning lookup 0 subtable"  129 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 301 -94 "'kern' Horizontal Kerning lookup 0 subtable" 295 -85 "'kern' Horizontal Kerning lookup 0 subtable" 206 -17 "'kern' Horizontal Kerning lookup 0 subtable" 202 -17 "'kern' Horizontal Kerning lookup 0 subtable" 153 -17 "'kern' Horizontal Kerning lookup 0 subtable" 149 -17 "'kern' Horizontal Kerning lookup 0 subtable" 143 -17 "'kern' Horizontal Kerning lookup 0 subtable" 137 -17 "'kern' Horizontal Kerning lookup 0 subtable" 133 -17 "'kern' Horizontal Kerning lookup 0 subtable" 129 -17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: yacute
@@ -12728,20 +9442,7 @@ Encoding: 253 253 253
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 423 16 m 2,0,1
@@ -12775,20 +9476,7 @@ Encoding: 375 375 254
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 423 16 m 2,0,1
@@ -12824,20 +9512,7 @@ Encoding: 255 255 255
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 423 16 m 2,0,1
@@ -12875,20 +9550,7 @@ Encoding: 7923 7923 256
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 423 16 m 2,0,1
@@ -12922,20 +9584,7 @@ Encoding: 122 122 257
 Width: 555
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 302 135 m 1,0,-1
@@ -12950,7 +9599,7 @@ SplineSet
  526 466 l 1,9,-1
  302 135 l 1,0,-1
 EndSplineSet
-Kerns2: 206 -10 "'kern' Horizontal Kerning lookup 0 subtable"  202 -10 "'kern' Horizontal Kerning lookup 0 subtable"  153 -10 "'kern' Horizontal Kerning lookup 0 subtable"  149 -10 "'kern' Horizontal Kerning lookup 0 subtable"  143 -10 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 206 -10 "'kern' Horizontal Kerning lookup 0 subtable" 202 -10 "'kern' Horizontal Kerning lookup 0 subtable" 153 -10 "'kern' Horizontal Kerning lookup 0 subtable" 149 -10 "'kern' Horizontal Kerning lookup 0 subtable" 143 -10 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: zacute
@@ -12958,20 +9607,7 @@ Encoding: 378 378 258
 Width: 555
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 535 135 m 1,0,-1
@@ -12999,20 +9635,7 @@ Encoding: 382 382 259
 Width: 555
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 302 135 m 1,0,-1
@@ -13042,20 +9665,7 @@ Encoding: 380 380 260
 Width: 555
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 302 135 m 1,0,-1
@@ -13082,20 +9692,7 @@ Encoding: 64257 64257 261
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 407 0 m 1,0,-1
@@ -13138,20 +9735,7 @@ Encoding: 64258 64258 262
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 408 0 m 1,0,-1
@@ -13189,20 +9773,7 @@ Encoding: 8319 8319 263
 Width: 435
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 158 681 m 1,0,1
@@ -13230,20 +9801,7 @@ Encoding: 916 916 264
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 500 153 m 1,0,-1
@@ -13266,20 +9824,7 @@ Encoding: 937 937 265
 Width: 853
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 162 146 m 1,0,1
@@ -13317,20 +9862,7 @@ Encoding: 956 956 266
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 443 0 m 1,0,-1
@@ -13358,20 +9890,7 @@ Encoding: 960 960 267
 Width: 706
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 593 403 m 1,0,-1
@@ -13400,20 +9919,7 @@ Encoding: 48 48 268
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 428 394 m 2,0,1
@@ -13457,20 +9963,7 @@ Encoding: 49 49 269
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 624 154 m 1,0,-1
@@ -13494,20 +9987,7 @@ Encoding: 50 50 270
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 52 445 m 1,0,1
@@ -13549,20 +10029,7 @@ Encoding: 51 51 271
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 64 512 m 2,0,1
@@ -13609,20 +10076,7 @@ Encoding: 52 52 272
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 411 700 m 1,0,1
@@ -13653,20 +10107,7 @@ Encoding: 53 53 273
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 247 518 m 1,0,-1
@@ -13708,20 +10149,7 @@ Encoding: 54 54 274
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 340 319 m 0,0,1
@@ -13762,20 +10190,7 @@ Encoding: 55 55 275
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 625 597 m 1,0,1
@@ -13799,20 +10214,7 @@ Encoding: 56 56 276
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 332 287 m 128,-1,1
@@ -13867,20 +10269,7 @@ Encoding: 57 57 277
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 327 565 m 0,0,1
@@ -13921,20 +10310,7 @@ Encoding: 8260 8260 278
 Width: 166
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 -178 -12 m 1,0,-1
@@ -13950,20 +10326,7 @@ Encoding: 189 189 279
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 603 267 m 1,0,1
@@ -14022,20 +10385,7 @@ Encoding: 188 188 280
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 825 420 m 1,0,1
@@ -14084,20 +10434,7 @@ Encoding: 190 190 281
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 817 420 m 1,0,1
@@ -14164,20 +10501,7 @@ Encoding: 8539 8539 282
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 779 167 m 0,0,1
@@ -14242,20 +10566,7 @@ Encoding: 8540 8540 283
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 787 167 m 0,0,1
@@ -14339,20 +10650,7 @@ Encoding: 8541 8541 284
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 786 167 m 0,0,1
@@ -14433,20 +10731,7 @@ Encoding: 8542 8542 285
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 747 167 m 0,0,1
@@ -14512,20 +10797,7 @@ Encoding: 170 170 286
 Width: 399
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 251 551 m 1,0,1
@@ -14571,20 +10843,7 @@ Encoding: 186 186 287
 Width: 399
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 271 588 m 2,0,1
@@ -14611,20 +10870,7 @@ Encoding: 185 185 288
 Width: 399
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 371 408 m 1,0,-1
@@ -14648,20 +10894,7 @@ Encoding: 178 178 289
 Width: 399
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 18 584 m 1,0,1
@@ -14702,20 +10935,7 @@ Encoding: 179 179 290
 Width: 399
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 30 625 m 2,0,1
@@ -14757,20 +10977,7 @@ Encoding: 42 42 291
 Width: 555
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 413 637 m 1,0,-1
@@ -14800,20 +11007,7 @@ Encoding: 92 92 292
 Width: 277
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 157 -48 m 1,0,-1
@@ -14829,20 +11023,7 @@ Encoding: 8226 8226 293
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 250 507 m 128,-1,1
@@ -14862,20 +11043,7 @@ Encoding: 58 58 294
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 61 0 m 1,0,-1
@@ -14896,20 +11064,7 @@ Encoding: 44 44 295
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 168 -183 m 1,0,-1
@@ -14928,20 +11083,7 @@ Encoding: 8230 8230 296
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 728 0 m 1,0,-1
@@ -14967,20 +11109,7 @@ Encoding: 33 33 297
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 67 0 m 1,0,-1
@@ -15001,20 +11130,7 @@ Encoding: 8252 8252 298
 Width: 603
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 342 0 m 1,0,-1
@@ -15045,20 +11161,7 @@ Encoding: 161 161 299
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 47 -160 m 1,0,-1
@@ -15079,20 +11182,7 @@ Encoding: 35 35 300
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 265 267 m 1,0,-1
@@ -15137,20 +11227,7 @@ Encoding: 46 46 301
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 61 0 m 1,0,-1
@@ -15166,20 +11243,7 @@ Encoding: 183 183 302
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 71 235 m 1,0,-1
@@ -15195,20 +11259,7 @@ Encoding: 63 63 303
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 212 0 m 1,0,-1
@@ -15251,20 +11302,7 @@ Encoding: 191 191 304
 Width: 610
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 388 231 m 2,0,1
@@ -15306,20 +11344,7 @@ Encoding: 34 34 305
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 393 398 m 1,0,-1
@@ -15344,20 +11369,7 @@ Encoding: 39 39 306
 Width: 277
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 172 398 m 1,0,-1
@@ -15375,20 +11387,7 @@ Encoding: 59 59 307
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 168 -183 m 1,0,-1
@@ -15412,20 +11411,7 @@ Encoding: 47 47 308
 Width: 277
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 -2 -48 m 1,0,-1
@@ -15441,20 +11427,7 @@ Encoding: 95 95 309
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 0 -126 m 1,0,-1
@@ -15470,20 +11443,7 @@ Encoding: 8215 8215 310
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 0 -221 m 1,0,-1
@@ -15504,20 +11464,7 @@ Encoding: 8254 8254 311
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 1 780 m 1,0,-1
@@ -15533,20 +11480,7 @@ Encoding: 123 123 312
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 349 639 m 1,0,1
@@ -15582,20 +11516,7 @@ Encoding: 125 125 313
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 131 737 m 2,0,1
@@ -15631,20 +11552,7 @@ Encoding: 91 91 314
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 225 634 m 1,0,-1
@@ -15664,20 +11572,7 @@ Encoding: 93 93 315
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 66 -160 m 1,0,-1
@@ -15697,20 +11592,7 @@ Encoding: 40 40 316
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 355 737 m 1,0,1
@@ -15732,20 +11614,7 @@ Encoding: 41 41 317
 Width: 388
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 154 737 m 1,0,1
@@ -15767,20 +11636,7 @@ Encoding: 8213 8213 318
 Width: 750
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 0 196 m 1,0,-1
@@ -15796,20 +11652,7 @@ Encoding: 8212 8212 319
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 0 196 m 1,0,-1
@@ -15825,20 +11668,7 @@ Encoding: 8211 8211 320
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 0 196 m 1,0,-1
@@ -15854,20 +11684,7 @@ Encoding: 45 45 321
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 39 196 m 1,0,-1
@@ -15883,20 +11700,7 @@ Encoding: 173 173 322
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 39 354 m 1,0,-1
@@ -15912,20 +11716,7 @@ Encoding: 171 171 323
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 606 119 m 1,0,-1
@@ -15950,20 +11741,7 @@ Encoding: 187 187 324
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 440 528 m 1,0,-1
@@ -15988,20 +11766,7 @@ Encoding: 8249 8249 325
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 321 119 m 1,0,-1
@@ -16019,20 +11784,7 @@ Encoding: 8250 8250 326
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 155 528 m 1,0,-1
@@ -16050,20 +11802,7 @@ Encoding: 8222 8222 327
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 368 -182 m 1,0,-1
@@ -16090,20 +11829,7 @@ Encoding: 8220 8220 328
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 456 506 m 1,0,-1
@@ -16123,7 +11849,7 @@ SplineSet
  156 506 l 1,13,-1
  227 506 l 1,7,-1
 EndSplineSet
-Kerns2: 9 -68 "'kern' Horizontal Kerning lookup 0 subtable"  5 -68 "'kern' Horizontal Kerning lookup 0 subtable"  1 -68 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 9 -68 "'kern' Horizontal Kerning lookup 0 subtable" 5 -68 "'kern' Horizontal Kerning lookup 0 subtable" 1 -68 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: quotedblright
@@ -16131,20 +11857,7 @@ Encoding: 8221 8221 329
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 368 331 m 1,0,-1
@@ -16171,20 +11884,7 @@ Encoding: 8216 8216 330
 Width: 277
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 230 506 m 1,0,-1
@@ -16196,7 +11896,7 @@ SplineSet
  159 506 l 1,6,-1
  230 506 l 1,0,-1
 EndSplineSet
-Kerns2: 9 -60 "'kern' Horizontal Kerning lookup 0 subtable"  5 -60 "'kern' Horizontal Kerning lookup 0 subtable"  1 -60 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 9 -60 "'kern' Horizontal Kerning lookup 0 subtable" 5 -60 "'kern' Horizontal Kerning lookup 0 subtable" 1 -60 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: quotereversed
@@ -16204,20 +11904,7 @@ Encoding: 8219 8219 331
 Width: 277
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 159 513 m 1,0,-1
@@ -16236,20 +11923,7 @@ Encoding: 8217 8217 332
 Width: 277
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 143 331 m 1,0,-1
@@ -16261,7 +11935,7 @@ SplineSet
  234 523 l 1,6,-1
  143 331 l 1,0,-1
 EndSplineSet
-Kerns2: 245 17 "'kern' Horizontal Kerning lookup 0 subtable"  221 -26 "'kern' Horizontal Kerning lookup 0 subtable"  217 10 "'kern' Horizontal Kerning lookup 0 subtable"  188 17 "'kern' Horizontal Kerning lookup 0 subtable"  149 -17 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 245 17 "'kern' Horizontal Kerning lookup 0 subtable" 221 -26 "'kern' Horizontal Kerning lookup 0 subtable" 217 10 "'kern' Horizontal Kerning lookup 0 subtable" 188 17 "'kern' Horizontal Kerning lookup 0 subtable" 149 -17 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: quotesinglbase
@@ -16269,20 +11943,7 @@ Encoding: 8218 8218 333
 Width: 277
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 139 -182 m 1,0,-1
@@ -16294,7 +11955,7 @@ SplineSet
  230 10 l 1,6,-1
  139 -182 l 1,0,-1
 EndSplineSet
-Kerns2: 333 -57 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 333 -57 "'kern' Horizontal Kerning lookup 0 subtable"
 EndChar
 
 StartChar: space
@@ -16302,20 +11963,8 @@ Encoding: 32 32 334
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
+Fore
 EndChar
 
 StartChar: uni00A0
@@ -16323,20 +11972,8 @@ Encoding: 160 160 335
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
+Fore
 EndChar
 
 StartChar: CR
@@ -16344,20 +11981,8 @@ Encoding: 13 13 336
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
+Fore
 EndChar
 
 StartChar: florin
@@ -16365,20 +11990,7 @@ Encoding: 402 402 337
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 296 550 m 2,0,1
@@ -16420,20 +12032,7 @@ Encoding: 162 162 338
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 384 618 m 1,0,1
@@ -16470,20 +12069,7 @@ Encoding: 164 164 339
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 329 477 m 0,0,1
@@ -16531,20 +12117,7 @@ Encoding: 36 36 340
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 389 619 m 1,0,1
@@ -16604,20 +12177,7 @@ Encoding: 8364 8364 341
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 126 461 m 1,0,1
@@ -16669,20 +12229,7 @@ Encoding: 8355 8355 342
 Width: 832
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 764 277 m 2,0,1
@@ -16718,20 +12265,7 @@ Encoding: 8356 8356 343
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 125 493 m 2,0,1
@@ -16779,20 +12313,7 @@ Encoding: 8359 8359 344
 Width: 1721
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 280 383 m 1,0,-1
@@ -16889,20 +12410,7 @@ Encoding: 163 163 345
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 125 493 m 2,0,1
@@ -16942,20 +12450,7 @@ Encoding: 165 165 346
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 638 459 m 1,0,-1
@@ -16991,20 +12486,7 @@ Encoding: 8486 8486 347
 Width: 853
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 162 146 m 1,0,1
@@ -17042,20 +12524,7 @@ Encoding: 8776 8776 348
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 621 133 m 1,0,1
@@ -17136,20 +12605,7 @@ Encoding: 126 126 349
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 621 279 m 1,0,1
@@ -17195,20 +12651,7 @@ Encoding: 8729 8729 350
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 71 418 m 1,0,-1
@@ -17224,20 +12667,7 @@ Encoding: 247 247 351
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 266 15 m 1,0,-1
@@ -17263,20 +12693,7 @@ Encoding: 8725 8725 352
 Width: 109
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 -170 -12 m 1,0,-1
@@ -17292,20 +12709,7 @@ Encoding: 61 61 353
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 66 85 m 1,0,-1
@@ -17326,20 +12730,7 @@ Encoding: 8801 8801 354
 Width: 599
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 62 22 m 1,0,-1
@@ -17365,20 +12756,7 @@ Encoding: 62 62 355
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 593 189 m 1,0,-1
@@ -17397,20 +12775,7 @@ Encoding: 8805 8805 356
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 66 0 m 1,0,-1
@@ -17434,20 +12799,7 @@ Encoding: 8710 8710 357
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 389 524 m 1,0,-1
@@ -17470,20 +12822,7 @@ Encoding: 8734 8734 358
 Width: 582
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 335 375 m 1,0,1
@@ -17539,20 +12878,7 @@ Encoding: 8747 8747 359
 Width: 270
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 272 835 m 1,0,1
@@ -17578,20 +12904,7 @@ Encoding: 8993 8993 360
 Width: 599
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 371 848 m 1,0,1
@@ -17612,20 +12925,7 @@ Encoding: 8992 8992 361
 Width: 599
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 435 774 m 1,0,1
@@ -17646,20 +12946,7 @@ Encoding: 8745 8745 362
 Width: 718
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 69 444 m 2,0,1
@@ -17689,20 +12976,7 @@ Encoding: 60 60 363
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 233 260 m 1,0,-1
@@ -17721,20 +12995,7 @@ Encoding: 8804 8804 364
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 66 0 m 1,0,-1
@@ -17758,20 +13019,7 @@ Encoding: 172 172 365
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 450 154 m 1,0,-1
@@ -17789,20 +13037,7 @@ Encoding: 181 181 366
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 430 80 m 1,0,1
@@ -17830,20 +13065,7 @@ Encoding: 8722 8722 367
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 66 198 m 1,0,-1
@@ -17859,20 +13081,7 @@ Encoding: 215 215 368
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 423 264 m 1,0,-1
@@ -17896,20 +13105,7 @@ Encoding: 8800 8800 369
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 594 443 m 1,0,-1
@@ -17941,20 +13137,7 @@ Encoding: 8735 8735 370
 Width: 978
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 802 112 m 1,0,-1
@@ -17972,20 +13155,7 @@ Encoding: 8706 8706 371
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 241 326 m 0,0,1
@@ -18030,20 +13200,7 @@ Encoding: 37 37 372
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 821 183 m 2,0,1
@@ -18095,20 +13252,7 @@ Encoding: 8240 8240 373
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 900 192 m 2,0,1
@@ -18196,20 +13340,7 @@ Encoding: 43 43 374
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 594 330 m 1,0,-1
@@ -18233,20 +13364,7 @@ Encoding: 177 177 375
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 66 0 m 1,0,-1
@@ -18275,20 +13393,7 @@ Encoding: 8719 8719 376
 Width: 822
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 686 579 m 1,0,-1
@@ -18312,20 +13417,7 @@ Encoding: 8730 8730 377
 Width: 548
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 252 -146 m 1,0,-1
@@ -18349,20 +13441,7 @@ Encoding: 8721 8721 378
 Width: 712
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 301 578 m 1,0,-1
@@ -18388,20 +13467,7 @@ Encoding: 8453 8453 379
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 822 188 m 2,0,1
@@ -18454,20 +13520,7 @@ Encoding: 8470 8470 380
 Width: 1344
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 841 144 m 1,0,-1
@@ -18510,20 +13563,7 @@ Encoding: 38 38 381
 Width: 888
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 195 361 m 1,0,1
@@ -18569,20 +13609,7 @@ Encoding: 64 64 382
 Width: 739
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 420 236 m 1,0,1
@@ -18659,20 +13686,7 @@ Encoding: 124 124 383
 Width: 277
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 77 -211 m 1,0,-1
@@ -18688,20 +13702,7 @@ Encoding: 166 166 384
 Width: 277
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 78 -210 m 1,0,-1
@@ -18722,20 +13723,7 @@ Encoding: 169 169 385
 Width: 799
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 604 305 m 1,0,1
@@ -18790,20 +13778,7 @@ Encoding: 8224 8224 386
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 604 507 m 1,0,-1
@@ -18827,20 +13802,7 @@ Encoding: 8225 8225 387
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 604 507 m 1,0,-1
@@ -18874,20 +13836,7 @@ Encoding: 176 176 388
 Width: 399
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 198 611 m 0,0,1
@@ -18916,20 +13865,7 @@ Encoding: 8494 8494 389
 Width: 599
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 452 443 m 1,0,1
@@ -18962,20 +13898,7 @@ Encoding: 8962 8962 390
 Width: 599
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 172 79 m 1,0,-1
@@ -18998,20 +13921,7 @@ Encoding: 8467 8467 391
 Width: 585
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 280 364 m 1,0,1
@@ -19056,20 +13966,7 @@ Encoding: 8242 8242 392
 Width: 303
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 176 511 m 1,0,-1
@@ -19086,20 +13983,7 @@ Encoding: 182 182 393
 Width: 849
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 678 567 m 1,0,-1
@@ -19125,20 +14009,7 @@ Encoding: 174 174 394
 Width: 799
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 365 376 m 1,0,-1
@@ -19208,20 +14079,7 @@ Encoding: 8243 8243 395
 Width: 523
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 387 511 m 1,0,-1
@@ -19244,20 +14102,7 @@ Encoding: 167 167 396
 Width: 666
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 252 351 m 1,0,1
@@ -19348,20 +14193,7 @@ Encoding: 8482 8482 397
 Width: 949
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 788 290 m 1,0,-1
@@ -19402,20 +14234,7 @@ Encoding: 94 94 398
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 462 337 m 1,0,-1
@@ -19434,20 +14253,7 @@ Encoding: 8596 8596 399
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 959 242 m 1,0,-1
@@ -19475,20 +14281,7 @@ Encoding: 8595 8595 400
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 239 -206 m 1,0,-1
@@ -19510,20 +14303,7 @@ Encoding: 8592 8592 401
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 310 50 m 1,0,-1
@@ -19545,20 +14325,7 @@ Encoding: 8594 8594 402
 Width: 1000
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 734 316 m 1,0,-1
@@ -19580,20 +14347,7 @@ Encoding: 8593 8593 403
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 46 443 m 1,0,-1
@@ -19615,20 +14369,7 @@ Encoding: 8597 8597 404
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 239 -206 m 1,0,-1
@@ -19656,20 +14397,7 @@ Encoding: 9674 9674 405
 Width: 777
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 389 564 m 1,0,-1
@@ -19694,20 +14422,7 @@ Encoding: 806 806 406
 Width: 0
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 177 -267 m 1,0,-1
@@ -19726,20 +14441,7 @@ Encoding: 713 713 407
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 0 780 m 1,0,-1
@@ -19755,20 +14457,7 @@ Encoding: 180 180 408
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 157 592 m 1,0,-1
@@ -19785,20 +14474,7 @@ Encoding: 728 728 409
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 351 725 m 1,0,1
@@ -19820,20 +14496,7 @@ Encoding: 711 711 410
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 104 580 m 1,0,-1
@@ -19852,20 +14515,7 @@ Encoding: 184 184 411
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 198 -29 m 1,0,1
@@ -19891,20 +14541,7 @@ Encoding: 710 710 412
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 241 580 m 1,0,-1
@@ -19923,20 +14560,7 @@ Encoding: 168 168 413
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 200 586 m 1,0,-1
@@ -19957,20 +14581,7 @@ Encoding: 729 729 414
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 91 586 m 1,0,-1
@@ -19986,20 +14597,7 @@ Encoding: 96 96 415
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 183 592 m 1,0,-1
@@ -20016,20 +14614,7 @@ Encoding: 733 733 416
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 315 591 m 1,0,-1
@@ -20052,20 +14637,7 @@ Encoding: 175 175 417
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 9 605 m 1,0,-1
@@ -20081,20 +14653,7 @@ Encoding: 731 731 418
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 212 8 m 1,0,1
@@ -20123,20 +14682,7 @@ Encoding: 730 730 419
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 167 725 m 0,0,1
@@ -20165,20 +14711,7 @@ Encoding: 732 732 420
 Width: 332
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 388 725 m 1,0,1
@@ -20204,20 +14737,7 @@ Encoding: 8616 8616 421
 Width: 500
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 46 -220 m 1,0,-1
@@ -20250,20 +14770,7 @@ Encoding: 8976 8976 422
 Width: 659
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
 Fore
 SplineSet
 210 335 m 1,0,-1
@@ -20281,20 +14788,8 @@ Encoding: 65537 -1 423
 Width: 0
 Flags: MW
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
+Back
+Fore
 EndChar
 EndChars
 EndSplineFont
