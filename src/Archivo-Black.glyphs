@@ -35,16 +35,36 @@ ascender = 716;
 capHeight = 688;
 customParameters = (
 {
-name = TypoAscender;
-value = 716;
+name = typoAscender;
+value = "957";
 },
 {
-name = TypoDescender;
-value = "-212";
+name = typoDescender;
+value = "-267";
 },
 {
-name = postscriptUnderlinePosition;
-value = "-155";
+name = typoLineGap;
+value = "0";
+},
+{
+name = winAscent;
+value = "957";
+},
+{
+name = winDescent;
+value = "267";
+},
+{
+name = hheaAscender;
+value = "957";
+},
+{
+name = hheaDescender;
+value = "-267";
+},
+{
+name = hheaLineGap;
+value = "0";
 }
 );
 descender = "-212";
@@ -21744,6 +21764,10 @@ value = (
     11,
     4
 );
+},
+{
+name = "TTFAutohint options";
+value = "--default-script=latn --windows-compatibility --composites --no-info --strong-stem-width=gD";
 }
 );
 name = Regular;
