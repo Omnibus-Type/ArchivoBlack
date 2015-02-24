@@ -31,16 +31,16 @@ alignmentZones = (
 "{0, -12}",
 "{-197, -15}"
 );
-ascender = 716;
+ascender = 1101;
 capHeight = 688;
 customParameters = (
 {
 name = typoAscender;
-value = "957";
+value = "1101";
 },
 {
 name = typoDescender;
-value = "-267";
+value = "-310";
 },
 {
 name = typoLineGap;
@@ -48,26 +48,26 @@ value = "0";
 },
 {
 name = winAscent;
-value = "957";
+value = "1101";
 },
 {
 name = winDescent;
-value = "267";
+value = "310";
 },
 {
 name = hheaAscender;
-value = "957";
+value = "1101";
 },
 {
 name = hheaDescender;
-value = "-267";
+value = "-310";
 },
 {
 name = hheaLineGap;
 value = "0";
 }
 );
-descender = "-212";
+descender = "-310";
 horizontalStems = (
 135,
 165
@@ -5060,7 +5060,6 @@ layers = (
 components = (
 {
 name = S;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccent;
@@ -5201,7 +5200,6 @@ layers = (
 components = (
 {
 name = T;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedilla;
@@ -12723,7 +12721,6 @@ layers = (
 components = (
 {
 name = s;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = commaaccent;
@@ -13000,7 +12997,6 @@ layers = (
 components = (
 {
 name = t;
-transform = "{1, 0, 0, 1, 0, 0}";
 },
 {
 name = cedilla;
@@ -17354,7 +17350,6 @@ layers = (
 components = (
 {
 name = hyphen;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "87647C87-E27A-4883-B22D-08F5E311E309";
@@ -18431,7 +18426,6 @@ layers = (
 components = (
 {
 name = Omega;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "87647C87-E27A-4883-B22D-08F5E311E309";
@@ -18573,7 +18567,6 @@ layers = (
 components = (
 {
 name = periodcentered;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "87647C87-E27A-4883-B22D-08F5E311E309";
@@ -18796,7 +18789,6 @@ layers = (
 components = (
 {
 name = Delta;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "87647C87-E27A-4883-B22D-08F5E311E309";
@@ -19134,7 +19126,6 @@ layers = (
 components = (
 {
 name = mu;
-transform = "{1, 0, 0, 1, 0, 0}";
 }
 );
 layerId = "87647C87-E27A-4883-B22D-08F5E311E309";
@@ -21172,6 +21163,63 @@ unicode = 2033;
 },
 {
 color = 0;
+glyphname = commaaccent;
+lastChange = "2013-12-03 22:31:02 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{166, 0}";
+}
+);
+layerId = "87647C87-E27A-4883-B22D-08F5E311E309";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"231 -59 LINE",
+"101 -59 LINE",
+"101 -175 LINE",
+"151 -175 LINE",
+"110 -267 LINE",
+"177 -267 LINE",
+"231 -168 LINE"
+);
+}
+);
+width = 333;
+}
+);
+unicode = 0326;
+},
+{
+color = 3;
+glyphname = firsttonechinese;
+lastChange = "2013-12-15 16:46:55 +0000";
+layers = (
+{
+layerId = "87647C87-E27A-4883-B22D-08F5E311E309";
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"500 842 LINE",
+"0 842 LINE",
+"0 780 LINE",
+"500 780 LINE"
+);
+}
+);
+width = 500;
+}
+);
+unicode = 02C9;
+},
+{
+color = 0;
 glyphname = acute;
 lastChange = "2013-12-03 22:31:02 +0000";
 layers = (
@@ -21675,63 +21723,6 @@ width = 333;
 }
 );
 unicode = 02DC;
-},
-{
-color = 0;
-glyphname = commaaccent;
-lastChange = "2013-12-03 22:31:02 +0000";
-layers = (
-{
-anchors = (
-{
-name = _bottom;
-position = "{166, 0}";
-}
-);
-layerId = "87647C87-E27A-4883-B22D-08F5E311E309";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"231 -59 LINE",
-"101 -59 LINE",
-"101 -175 LINE",
-"151 -175 LINE",
-"110 -267 LINE",
-"177 -267 LINE",
-"231 -168 LINE"
-);
-}
-);
-width = 333;
-}
-);
-unicode = 0326;
-},
-{
-color = 3;
-glyphname = firsttonechinese;
-lastChange = "2013-12-15 16:46:55 +0000";
-layers = (
-{
-layerId = "87647C87-E27A-4883-B22D-08F5E311E309";
-name = Regular;
-paths = (
-{
-closed = 1;
-nodes = (
-"500 842 LINE",
-"0 842 LINE",
-"0 780 LINE",
-"500 780 LINE"
-);
-}
-);
-width = 500;
-}
-);
-unicode = 02C9;
 },
 {
 color = 0;
