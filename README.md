@@ -46,6 +46,9 @@ This information should be distributed along with the Archivo Black fonts and an
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**21 May 2017 (Nicolas Silva) Archivo Black v1.005**
+- Added alternative ampersand
+
 **27 January 2015 (Nicolas Silva) Archivo Black v1.004**
 - Removed Reserve Font Name from the license
 - Name tables adjusted
