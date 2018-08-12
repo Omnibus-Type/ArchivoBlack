@@ -5,7 +5,7 @@
 
 Archivo is a grotesque sans serif typeface family from [Omnibus Type](http://omnibus-type.com/). It was originally designed for highlights and headlines. This family is reminiscent of late nineteenth century American typefaces.
 
-![Sample of Archivo Black.](SRC/ArchivoBlack.gif "Archivo Black")
+![Sample of Archivo Black.](sources/ArchivoBlack.gif "Archivo Black")
 
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
@@ -16,7 +16,7 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### License
 
-Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
+Copyright (c) 2012-2018, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -45,6 +45,10 @@ This information should be distributed along with the Archivo Black fonts and an
 * Alphabetic Presentation Forms (2 glyphs)
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
+
+**12 Aug 2018 (Yorlmar Campos) Archivo Black v1.006 / Archivo Black Italic v1.000**
+- Support for GF Latin Plus
+- Added Italic version
 
 **21 May 2017 (Nicolas Silva) Archivo Black v1.005**
 - Added alternative ampersand
@@ -95,7 +99,7 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
-**N:** **Nicolas Silva**  
+**N:** **Nicolás Silva**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development  
@@ -104,3 +108,8 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer
+
+**N:** **Yorlmar Campos**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development
