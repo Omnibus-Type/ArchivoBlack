@@ -96,17 +96,8 @@ value = (
 );
 },
 {
-name = Axes;
-value = (
-{
-Name = Weight;
-Tag = wght;
-}
-);
-},
-{
-name = "Variation Font Origin";
-value = "54B1AC83-0CA1-46BD-96DF-6FABA525BA97";
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2018-08-12 18:19:51 +0000";
@@ -654,7 +645,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 957;
+value = 1082;
 },
 {
 name = winDescent;
