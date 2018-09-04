@@ -1,5 +1,5 @@
 {
-.appVersion = "1161";
+.appVersion = "1163";
 classes = (
 {
 code = "zero
@@ -46,15 +46,11 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright 2018 The Archivo Project Authors (https://github.com/Omnibus-Type/ArchivoBlack) with Reserved Font Name \"Archivo\".";
+copyright = "Copyright 2018 The Archivo Black Project Authors (https://github.com/Omnibus-Type/ArchivoBlack), with Reserved Font Name \"Archivo\".";
 customParameters = (
 {
 name = trademark;
 value = "Archivo is a trademark of Omnibus-Type.";
-},
-{
-name = description;
-value = "Archivo is a grotesque sans serif typeface family from Omnibus-Type. It was originally designed for highlights and headlines. This family is reminiscent of late nineteenth century American typefaces.";
 },
 {
 name = vendorID;
@@ -74,29 +70,15 @@ name = licenseURL;
 value = "http://scripts.sil.org/OFL";
 },
 {
+name = "Use Typo Metrics";
+value = 1;
+},
+{
 name = "Disable Last Change";
 value = 1;
 },
 {
 name = "Use Line Breaks";
-value = 1;
-},
-{
-name = "Use Typo Metrics";
-value = 1;
-},
-{
-name = "Family Alignment Zones";
-value = (
-"{723, 13}",
-"{686, 13}",
-"{526, 13}",
-"{0, -13}",
-"{-183, -13}"
-);
-},
-{
-name = "Use Typo Metrics";
 value = 1;
 }
 );
@@ -104,7 +86,7 @@ date = "2018-08-12 18:19:51 +0000";
 designer = "Hector Gatti";
 designerURL = "http://www.omnibus-type.com";
 disablesNiceNames = 1;
-familyName = Archivo;
+familyName = "Archivo Black";
 featurePrefixes = (
 {
 code = "lookup lookup_0 {
@@ -629,7 +611,6 @@ alignmentZones = (
 );
 ascender = 723;
 capHeight = 686;
-custom = Black;
 customParameters = (
 {
 name = typoAscender;
@@ -662,91 +643,6 @@ value = -303;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = underlineThickness;
-value = 110;
-},
-{
-name = underlinePosition;
-value = -170;
-},
-{
-name = strikeoutPosition;
-value = "0";
-},
-{
-name = strikeoutSize;
-value = "110";
-},
-{
-name = TTFStems;
-value = (
-{
-horizontal = 1;
-name = "Stem:0";
-width = 135;
-},
-{
-horizontal = 1;
-name = "Stem:1";
-width = 165;
-},
-{
-horizontal = 0;
-name = "Stem:2";
-width = 199;
-},
-{
-horizontal = 0;
-name = "Stem:3";
-width = 221;
-},
-{
-horizontal = 0;
-name = "Stem:4";
-width = 291;
-}
-);
-},
-{
-name = TTFZones;
-value = (
-{
-name = ascender;
-position = 723;
-size = 13;
-},
-{
-name = "zone 1";
-position = 688;
-size = 13;
-},
-{
-name = xHeight;
-position = 526;
-size = 13;
-},
-{
-name = baseline;
-position = 0;
-size = -13;
-},
-{
-name = descender;
-position = -183;
-size = -13;
-}
-);
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 descender = -183;
@@ -26889,21 +26785,6 @@ instances = (
 {
 customParameters = (
 {
-name = panose;
-value = (
-2,
-11,
-10,
-3,
-2,
-2,
-2,
-2,
-11,
-4
-);
-},
-{
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
 }
@@ -26913,8 +26794,7 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "150D365C-6679-4329-86DF-DF48353E59C3" = 1;
 };
-name = Black;
-weightClass = Black;
+name = Regular;
 }
 );
 kerning = {
@@ -27273,5 +27153,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 6;
+versionMinor = 100;
 }
