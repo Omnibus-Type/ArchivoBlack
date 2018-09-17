@@ -1,5 +1,5 @@
 {
-.appVersion = "1163";
+.appVersion = "1165";
 classes = (
 {
 code = "zero
@@ -615,11 +615,11 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 957;
+value = 1035;
 },
 {
 name = typoDescender;
-value = -303;
+value = -312;
 },
 {
 name = typoLineGap;
@@ -631,15 +631,15 @@ value = 1082;
 },
 {
 name = winDescent;
-value = 271;
+value = 312;
 },
 {
 name = hheaAscender;
-value = 957;
+value = 878;
 },
 {
 name = hheaDescender;
-value = -303;
+value = -210;
 },
 {
 name = hheaLineGap;
@@ -28723,21 +28723,6 @@ instances = (
 {
 customParameters = (
 {
-name = panose;
-value = (
-2,
-11,
-10,
-3,
-2,
-2,
-2,
-2,
-11,
-4
-);
-},
-{
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
 }
@@ -29097,5 +29082,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 101;
 }

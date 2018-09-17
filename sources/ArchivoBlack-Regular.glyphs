@@ -1,5 +1,5 @@
 {
-.appVersion = "1163";
+.appVersion = "1165";
 classes = (
 {
 code = "zero
@@ -614,11 +614,11 @@ capHeight = 686;
 customParameters = (
 {
 name = typoAscender;
-value = 957;
+value = 1035;
 },
 {
 name = typoDescender;
-value = -303;
+value = -312;
 },
 {
 name = typoLineGap;
@@ -630,15 +630,15 @@ value = 1082;
 },
 {
 name = winDescent;
-value = 303;
+value = 312;
 },
 {
 name = hheaAscender;
-value = 957;
+value = 878;
 },
 {
 name = hheaDescender;
-value = -303;
+value = -210;
 },
 {
 name = hheaLineGap;
@@ -27153,5 +27153,5 @@ manufacturer = "Omnibus-Type";
 manufacturerURL = "http://omnibus-type.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 100;
+versionMinor = 101;
 }
