@@ -11,12 +11,12 @@ To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### Designers
 
-* Hector Gatti
+* Héctor Gatti
 * Pablo Cosgaya
 
 ### License
 
-Copyright (c) 2012-2018, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com).
+Copyright (c) 2019, Omnibus-Type (www.omnibus-type.com | omnibus.type@gmail.com).
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -46,20 +46,21 @@ This information should be distributed along with the Archivo Black fonts and an
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**12 Aug 2018 (Yorlmar Campos) Archivo Black v1.006 / Archivo Black Italic v1.000**
-- Support for GF Latin Plus
+**12 Aug 2018 Archivo Black v1.006 / Archivo Black Italic v1.000**
+- Updated to GF Latin Plus set
+- Supports 219 Latin languages used in 212 countries
 - Added Italic version
 
-**21 May 2017 (Nicolas Silva) Archivo Black v1.005**
+**21 May 2017 Archivo Black v1.005**
 - Added alternative ampersand
 
-**27 January 2015 (Nicolas Silva) Archivo Black v1.004**
+**27 January 2015 Archivo Black v1.004**
 - Removed Reserve Font Name from the license
 - Name tables adjusted
 - fsType Installable mode
 - Set Panose values
 
-**11 Jun 2014 (Nicolas Silva) Archivo Black v.1.004**
+**11 Jun 2014 Archivo Black v.1.004**
 - Redrew numbers and other glyphs:  
 onehalf, onequarter, threequarters, florin, percent, perthousand, product, summation, copyright, estimated, literSign, registered.
 - Improved kerning in Uppercase next to lowercases
@@ -68,10 +69,10 @@ onehalf, onequarter, threequarters, florin, percent, perthousand, product, summa
 - TTF Autohint 1.0
 - Optimized TTF curves
 
-**02 Oct 2012 (Omnibus Type) Archivo Black v1.002**
+**02 Oct 2012 Archivo Black v1.002**
 - Fixed Tables name *Thanks Theunis de Jong for his technical input*
 
-**22 Aug 2012 (Omnibus Type) Archivo Black v1.001**
+**22 Aug 2012 Archivo Black v1.001**
 - Initial release under SIL Open Font License
 - This release supports the following:
 
@@ -94,7 +95,7 @@ Latin Extended-A   | U+0100-U+017F
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Hector Gatti**  
+**N:** **Héctor Gatti**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer
