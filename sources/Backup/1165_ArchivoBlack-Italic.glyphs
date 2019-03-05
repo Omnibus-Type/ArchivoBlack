@@ -1,5 +1,5 @@
 {
-.appVersion = "1216";
+.appVersion = "1165";
 classes = (
 {
 code = "zero
@@ -46,7 +46,7 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2019, The Archivo Black Project Authors (https://github.com/Omnibus-Type/ArchivoBlack)";
+copyright = "Copyright 2018 The Archivo Black Project Authors (https://github.com/Omnibus-Type/ArchivoBlack), with Reserved Font Name \"Archivo\".";
 customParameters = (
 {
 name = trademark;
@@ -1297,6 +1297,7 @@ rightKerningGroup = A;
 unicode = 00C5;
 },
 {
+color = 0;
 glyphname = Aringacute;
 layers = (
 {
