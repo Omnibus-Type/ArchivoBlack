@@ -7,6 +7,9 @@ Archivo is a grotesque sans serif typeface family from [Omnibus Type](http://omn
 
 ![Sample of Archivo Black.](sources/ArchivoBlack.gif "Archivo Black")
 
+#### Archivo Black Family contains:
+* regular / italic
+
 To contribute to the project contact [Omnibus Type](http://omnibus-type.com/).
 
 ### Designers
